@@ -366,8 +366,6 @@
 &lt;div class=&quot;exe-fx exe-accordion&quot;&gt;
 &lt;h2&gt;A &lt;strong&gt;Orígens de la tecnologia&lt;/strong&gt; de &lt;strong&gt;1r d'ESO...&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;...vam conèixer qui va ser l'actriu de Hollywood i inventora &lt;strong&gt;Hedy&lt;/strong&gt; &lt;strong&gt;Lamarr&lt;/strong&gt;, coprecursora del Wifi, GPS i Blutooth a partir de la seva vida de pel·lícula; vam investigar i treballar el &lt;strong&gt;correu electrònic&lt;/strong&gt; amb la nostra signatura personalitzada, &lt;strong&gt;organitzar carpetes&lt;/strong&gt; al Drive; així com també les &lt;strong&gt;eines del taller;&lt;/strong&gt; l'&lt;strong&gt;ús de material de dibuix tècnic&lt;/strong&gt; &lt;em&gt;(joc d'escaires, compàs, paral·leles i perpendiculars)&lt;/em&gt;, les &lt;strong&gt;capes de la terra&lt;/strong&gt;, els &lt;strong&gt;materials;&lt;/strong&gt; les &lt;strong&gt;4R&lt;/strong&gt; (&lt;em&gt;reduïr, reutilitzar, reusar i reciclar&lt;/em&gt;), vam &lt;strong&gt;representar la prehistòria en maquetes&lt;/strong&gt; amb algunes &lt;strong&gt;eines&lt;/strong&gt; i materials &lt;strong&gt;reciclats&lt;/strong&gt;, vam aprendre sobre &lt;strong&gt;l'Hort: &lt;/strong&gt;els&lt;strong&gt; aliments de temporada,&lt;/strong&gt; netejar, preparar i &lt;strong&gt;cultivar&lt;/strong&gt; plantes amb fruits i aromàtiques i &lt;strong&gt;cuidar&lt;/strong&gt;-les fins a obtenir fruits, vam coneixer una mica d'&lt;strong&gt;urbanisme&lt;/strong&gt; de la nostre ciutat i, finalment, vam ser reporters i reporteres realitzant &lt;strong&gt;fotodenúncies&lt;/strong&gt; amb l'objectiu de millorar la nostra ciutat, Montcada, a través d'una &lt;strong&gt;instància&lt;/strong&gt; conjunta per enviar-la a ll'Ajuntament.&lt;/p&gt;
-&lt;h2&gt;.&lt;/h2&gt;
-&lt;p&gt;Escriviu el contingut...&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;A través de la pel·lícula &lt;em&gt;&lt;strong&gt;Back to the future&lt;/strong&gt;&lt;/em&gt; (1985) viatjarem en el temps i en endinsarem en diveres missions on podrem descobrir i ampliar nous coneixements i horitzons. Espero que continuem gaudint i aprenent plegants en aquest 2n curs!&lt;/p&gt;&lt;/div&gt;"></unicode>
            <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -712,10 +710,6 @@
 &lt;p&gt;&lt;strong&gt;Què és l'exeLearning? &lt;/strong&gt;És un programa informàtic de codi lliure i obert (open source) que facilita la creació de continguts educatius. Hi ha una comunitat molt gran de persones amb qui compartir materials, contingut i, també, dubtes i solucions als problemes que van sorgint.&lt;/p&gt;
 &lt;h2&gt;FPM 1r Trim.&lt;/h2&gt;
 &lt;p style=&quot;text-align: center;&quot;&gt;&lt;iframe width=&quot;900&quot; height=&quot;347&quot; src=&quot;https://docs.google.com/presentation/d/e/2PACX-1vRurCEpO3VFcScDd8xp4verIu_8NfXjbiW1Gb83w0xDqwNADXlO-hHDIvyo3iSS8A/pubembed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;h2&gt;FPM 2n Trim.&lt;/h2&gt;
-&lt;p&gt;escriu contingut&lt;/p&gt;
-&lt;h2&gt;FPM 3r Trim.&lt;/h2&gt;
-&lt;p&gt;escriu contingut&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -899,7 +893,8 @@
               <string role="key" value="anchors_linked_from_fields"></string>
               <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
-              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Clica &lt;a href=&quot;https://drive.google.com/file/d/1dk1uMT5bjdcTU7wPCbcB2XrGtqjZXFjc/view?usp=drive_link&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;aquí &lt;/a&gt;per veure la pel·lícula.&lt;/p&gt;&lt;/div&gt;"></unicode>
+              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt;Clica &lt;a href=&quot;https://drive.google.com/file/d/1dk1uMT5bjdcTU7wPCbcB2XrGtqjZXFjc/view?usp=sharing&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;aquí &lt;/a&gt;per veure la pel·lícula.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://drive.google.com/file/d/1dk1uMT5bjdcTU7wPCbcB2XrGtqjZXFjc/view?usp=sharing&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;img src=&quot;resources/cartel.jpg&quot; alt=&quot;&quot; width=&quot;321&quot; height=&quot;500&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
               <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -912,7 +907,60 @@
               <instance class="exe.engine.galleryidevice.GalleryImages">
                <dictionary>
                 <string role="key" value=".listitems"></string>
-                <list></list>
+                <list>
+                 <instance class="exe.engine.galleryidevice.GalleryImage">
+                  <dictionary>
+                   <string role="key" value="_caption"></string>
+                   <instance class="exe.engine.field.TextField">
+                    <dictionary>
+                     <string role="key" value="_id"></string>
+                     <int value="560"></int>
+                     <string role="key" value="_idevice"></string>
+                     <none></none>
+                     <string role="key" value="_instruc"></string>
+                     <string value=""></string>
+                     <string role="key" value="_name"></string>
+                     <string value=""></string>
+                     <string role="key" value="content"></string>
+                     <string value=""></string>
+                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                     <int value="4"></int>
+                    </dictionary>
+                   </instance>
+                   <string role="key" value="_id"></string>
+                   <unicode value="22_130_2.0"></unicode>
+                   <string role="key" value="_imageResource"></string>
+                   <instance class="exe.engine.resource.Resource" reference="17">
+                    <dictionary>
+                     <string role="key" value="_idevice"></string>
+                     <reference key="15"></reference>
+                     <string role="key" value="_package"></string>
+                     <reference key="2"></reference>
+                     <string role="key" value="_storageName"></string>
+                     <string value="cartel.jpg"></string>
+                     <string role="key" value="_userName"></string>
+                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmpwf_3en.eXe\\previews\\cartel.jpg"></string>
+                     <string role="key" value="checksum"></string>
+                     <string value="a0a7ef8252786236a6604c3988d8ea1a"></string>
+                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                     <int value="2"></int>
+                     <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                     <int value="2"></int>
+                     <string role="key" value="warningMsg"></string>
+                     <string value=""></string>
+                    </dictionary>
+                   </instance>
+                   <string role="key" value="_parent"></string>
+                   <reference key="16"></reference>
+                   <string role="key" value="_thumbnailResource"></string>
+                   <none></none>
+                   <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                   <int value="3"></int>
+                   <string role="key" value="makeThumbnail"></string>
+                   <bool value="0"></bool>
+                  </dictionary>
+                 </instance>
+                </list>
                 <string role="key" value="idevice"></string>
                 <reference key="16"></reference>
                </dictionary>
@@ -920,7 +968,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="0"></int>
+              <int value="1"></int>
               <string role="key" value="parentNode"></string>
               <reference key="13"></reference>
              </dictionary>
@@ -945,12 +993,14 @@
            <string role="key" value="undo"></string>
            <bool value="1"></bool>
            <string role="key" value="userResources"></string>
-           <list></list>
+           <list>
+            <reference key="17"></reference>
+           </list>
            <string role="key" value="version"></string>
            <int value="0"></int>
           </dictionary>
          </instance>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="17">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="18">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Relaciona · Qui és qui? "></unicode>
@@ -1011,12 +1061,12 @@
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="18">
+            <instance class="exe.engine.field.TextAreaField" reference="19">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="134_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="17"></reference>
+              <reference key="18"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -1026,7 +1076,7 @@
               <string role="key" value="anchors_linked_from_fields"></string>
               <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
-              <unicode content="true" value="&lt;div class=&quot;relaciona-IDevice&quot;&gt;&lt;div class=&quot;relaciona-instructions gameQP-instructions&quot;&gt;&lt;p&gt;Relaciona cada imatge amb el seu nom. &lt;br /&gt;Trobaràs personatges, objectes i localitzacions que haureu de conèixer per poder començar les missions!! &lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;relaciona-DataGame js-hidden&quot;&gt;{&quot;typeGame&quot;:&quot;Relaciona&quot;,&quot;author&quot;:&quot;&quot;,&quot;randomCards&quot;:true,&quot;instructions&quot;:&quot;&lt;p&gt;Relaciona cada imatge amb el seu nom. &lt;br /&gt;Trobaràs personatges, objectes i localitzacions que haureu de conèixer per poder començar les missions!! &lt;/p&gt;&quot;,&quot;showMinimize&quot;:false,&quot;itinerary&quot;:{&quot;showClue&quot;:true,&quot;clueGame&quot;:&quot;Objectiu aconseguit! Propera contrasenya: Energia&quot;,&quot;percentageClue&quot;:100,&quot;showCodeAccess&quot;:true,&quot;codeAccess&quot;:&quot;Einstein1&quot;,&quot;messageCodeAccess&quot;:&quot;Introdueix el codi per començar les activitats!&quot;},&quot;cardsGame&quot;:[{&quot;url&quot;:&quot;resources/eintenstein3.jpg&quot;,&quot;x&quot;:0.31939657803239496,&quot;y&quot;:0.4450433665308459,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;Einstein&quot;},{&quot;url&quot;:&quot;resources/Einstein-y-Doc.jpg&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;'Doc'%20%C2%B7%20Emmet%20Brown&quot;},{&quot;url&quot;:&quot;resources/delorean.jpg&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;DeLorean&quot;},{&quot;url&quot;:&quot;resources/AlbertEinstein.jpg&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;Albert%20Einstein%2C%20f%C3%ADsic%20(1879-1955)&quot;},{&quot;url&quot;:&quot;resources/Almanaque1985A.png&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;Almanach&quot;},{&quot;url&quot;:&quot;resources/BenFranklin.jpg&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;Ben%20Franklin%2C%20pol%C3%ADmata%20(1706-1790)&quot;},{&quot;url&quot;:&quot;resources/Biff_Tannen4.jpg&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;Biff%20Tannen&quot;},{&quot;url&quot;:&quot;resources/CarteldeHillValley-1985.png&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;Hill%20Valley&quot;},{&quot;url&quot;:&quot;resources/Casadelacorte-2015.jpg&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;'Torre%20del%20rellotge'%20%C2%B7%20Casa%20de%20les%20corts&quot;},{&quot;url&quot;:&quot;resources/CasaMarty_TransportEnergia.jpg&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;Casa%20de%20la%20fam%C3%ADlia%20McFly&quot;},{&quot;url&quot;:&quot;resources/Cicuitosdeltiempo.png&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;Rellotge%20per%20viatjar%20en%20el%20temps&quot;},{&quot;url&quot;:&quot;resources/GeorgeMcFly.jpg&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;George%20McFly&quot;},{&quot;url&quot;:&quot;resources/Hedy_Lamarr_-_adolescent_.jpg&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;Hedy%20Lamarr%2C%20actriu%2C%20enginyera%20i%20inventora&quot;},{&quot;url&quot;:&quot;resources/Jennifer_Parker.jpg&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;Jennifer%20Parker&quot;},{&quot;url&quot;:&quot;resources/Lorraine_Baines_McFly4.JPG&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;Lorraine%20Baines-McFly&quot;},{&quot;url&quot;:&quot;resources/LorraineHouse.JPG&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;Casa%20familiar%20de%20Lorraine%20de%20jove&quot;},{&quot;url&quot;:&quot;resources/twinpines_lonepine_mall.jpg&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;Twin%20Pines&quot;},{&quot;url&quot;:&quot;resources/goldie_wilson_young.jpg&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;Alcalde%20Goldie%20Wilson&quot;}],&quot;isScorm&quot;:1,&quot;textButtonScorm&quot;:&quot;Desa puntuació&quot;,&quot;repeatActivity&quot;:true,&quot;textAfter&quot;:&quot;&quot;,&quot;version&quot;:1.3,&quot;percentajeCards&quot;:100,&quot;type&quot;:0,&quot;showSolution&quot;:true,&quot;timeShowSolution&quot;:3,&quot;time&quot;:3,&quot;evaluation&quot;:true,&quot;evaluationID&quot;:&quot;Einstein&quot;,&quot;id&quot;:&quot;202582314310-120&quot;,&quot;msgs&quot;:{&quot;msgSubmit&quot;:&quot;Envia&quot;,&quot;msgClue&quot;:&quot;Genial. La pista és:&quot;,&quot;msgCodeAccess&quot;:&quot;Codi d'accés&quot;,&quot;msgPlayStart&quot;:&quot;Prem aquí per jugar&quot;,&quot;msgScore&quot;:&quot;Puntuació&quot;,&quot;msgErrors&quot;:&quot;Errors&quot;,&quot;msgHits&quot;:&quot;Encerts&quot;,&quot;msgMinimize&quot;:&quot;Minimitza&quot;,&quot;msgMaximize&quot;:&quot;Maximitza&quot;,&quot;msgFullScreen&quot;:&quot;Pantalla completa&quot;,&quot;msgExitFullScreen&quot;:&quot;Surt de la pantalla completa&quot;,&quot;msgNoImage&quot;:&quot;Qüestió sense imatges&quot;,&quot;msgEndGameScore&quot;:&quot;Inicieu el joc abans de desar la puntuació.&quot;,&quot;msgScoreScorm&quot;:&quot;La puntuació no es pot desar ja que aquesta pàgina no forma part de un paquet SCORM.&quot;,&quot;msgOnlySaveScore&quot;:&quot;Sols podeu desar la puntuació una vegada!&quot;,&quot;msgOnlySave&quot;:&quot;Sols la podeu desar una vegada&quot;,&quot;msgInformation&quot;:&quot;Informació&quot;,&quot;msgYouScore&quot;:&quot;La seva puntuació&quot;,&quot;msgAuthor&quot;:&quot;Autoria&quot;,&quot;msgOnlySaveAuto&quot;:&quot;La puntuació es desarà després de cada pregunta. Només podeu  jugar una vegada.&quot;,&quot;msgSaveAuto&quot;:&quot;La puntuació es desarà després de cada pregunta de forma automàtica.&quot;,&quot;msgSeveralScore&quot;:&quot;Podeu desar la puntuació tantes vegades com vulgueu&quot;,&quot;msgYouLastScore&quot;:&quot;La darrera puntuació desada és&quot;,&quot;msgActityComply&quot;:&quot;Ja heu fet aquesta activitat. &quot;,&quot;msgPlaySeveralTimes&quot;:&quot;Podeu fer aquesta activitat tantes vegades com vulgueu&quot;,&quot;msgClose&quot;:&quot;Tanca&quot;,&quot;msgAudio&quot;:&quot;Àudio&quot;,&quot;msgNumQuestions&quot;:&quot;Nombre de targetes&quot;,&quot;msgTryAgain&quot;:&quot;Cal almenys %s% de respostes correctes per obtenir la informació. Torna-ho a provar.&quot;,&quot;msgEndGameM&quot;:&quot;Heu finalitzat el joc. La vostra puntuació és %s.&quot;,&quot;msgUncompletedActivity&quot;:&quot;Activitat incompleta&quot;,&quot;msgSuccessfulActivity&quot;:&quot;Activitat. Superada. Puntuació %s&quot;,&quot;msgUnsuccessfulActivity&quot;:&quot;Activitat: No superada. Puntuació %s&quot;,&quot;msgTypeGame&quot;:&quot;Relaciona&quot;,&quot;msgCheck&quot;:&quot;Comprova&quot;,&quot;msgRestart&quot;:&quot;Reinicia&quot;}}&lt;/div&gt;&lt;a href=&quot;resources/eintenstein3.jpg&quot; class=&quot;js-hidden relaciona-LinkImages&quot;&gt;0&lt;/a&gt;&lt;a href=&quot;resources/Einstein-y-Doc.jpg&quot; class=&quot;js-hidden relaciona-LinkImages&quot;&gt;1&lt;/a&gt;&lt;a href=&quot;resources/delorean.jpg&quot; class=&quot;js-hidden relaciona-LinkImages&quot;&gt;2&lt;/a&gt;&lt;a href=&quot;resources/AlbertEinstein.jpg&quot; class=&quot;js-hidden relaciona-LinkImages&quot;&gt;3&lt;/a&gt;&lt;a href=&quot;resources/Almanaque1985A.png&quot; class=&quot;js-hidden relaciona-LinkImages&quot;&gt;4&lt;/a&gt;&lt;a href=&quot;resources/BenFranklin.jpg&quot; class=&quot;js-hidden relaciona-LinkImages&quot;&gt;5&lt;/a&gt;&lt;a href=&quot;resources/Biff_Tannen4.jpg&quot; class=&quot;js-hidden relaciona-LinkImages&quot;&gt;6&lt;/a&gt;&lt;a href=&quot;resources/CarteldeHillValley-1985.png&quot; class=&quot;js-hidden relaciona-LinkImages&quot;&gt;7&lt;/a&gt;&lt;a href=&quot;resources/Casadelacorte-2015.jpg&quot; class=&quot;js-hidden relaciona-LinkImages&quot;&gt;8&lt;/a&gt;&lt;a href=&quot;resources/CasaMarty_TransportEnergia.jpg&quot; class=&quot;js-hidden relaciona-LinkImages&quot;&gt;9&lt;/a&gt;&lt;a href=&quot;resources/Cicuitosdeltiempo.png&quot; class=&quot;js-hidden relaciona-LinkImages&quot;&gt;10&lt;/a&gt;&lt;a href=&quot;resources/GeorgeMcFly.jpg&quot; class=&quot;js-hidden relaciona-LinkImages&quot;&gt;11&lt;/a&gt;&lt;a href=&quot;resources/Hedy_Lamarr_-_adolescent_.jpg&quot; class=&quot;js-hidden relaciona-LinkImages&quot;&gt;12&lt;/a&gt;&lt;a href=&quot;resources/Jennifer_Parker.jpg&quot; class=&quot;js-hidden relaciona-LinkImages&quot;&gt;13&lt;/a&gt;&lt;a href=&quot;resources/Lorraine_Baines_McFly4.JPG&quot; class=&quot;js-hidden relaciona-LinkImages&quot;&gt;14&lt;/a&gt;&lt;a href=&quot;resources/LorraineHouse.JPG&quot; class=&quot;js-hidden relaciona-LinkImages&quot;&gt;15&lt;/a&gt;&lt;a href=&quot;resources/twinpines_lonepine_mall.jpg&quot; class=&quot;js-hidden relaciona-LinkImages&quot;&gt;16&lt;/a&gt;&lt;a href=&quot;resources/goldie_wilson_young.jpg&quot; class=&quot;js-hidden relaciona-LinkImages&quot;&gt;17&lt;/a&gt;&lt;div class=&quot;relaciona-bns js-hidden&quot;&gt;El vostre navegador no és compatible amb aquesta eina.&lt;/div&gt;&lt;/div&gt;"></unicode>
+              <unicode content="true" value="&lt;div class=&quot;relaciona-IDevice&quot;&gt;&lt;div class=&quot;relaciona-instructions gameQP-instructions&quot;&gt;&lt;p&gt;Relaciona cada imatge amb el seu nom. &lt;br /&gt;Trobaràs personatges, objectes i localitzacions que haureu de conèixer per poder començar les missions!! &lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;relaciona-DataGame js-hidden&quot;&gt;{&quot;typeGame&quot;:&quot;Relaciona&quot;,&quot;author&quot;:&quot;&quot;,&quot;randomCards&quot;:true,&quot;instructions&quot;:&quot;&lt;p&gt;Relaciona cada imatge amb el seu nom. &lt;br /&gt;Trobaràs personatges, objectes i localitzacions que haureu de conèixer per poder començar les missions!! &lt;/p&gt;&quot;,&quot;showMinimize&quot;:false,&quot;itinerary&quot;:{&quot;showClue&quot;:true,&quot;clueGame&quot;:&quot;Objectiu aconseguit! Propera contrasenya: Energia&quot;,&quot;percentageClue&quot;:100,&quot;showCodeAccess&quot;:true,&quot;codeAccess&quot;:&quot;Einstein&quot;,&quot;messageCodeAccess&quot;:&quot;Introdueix el codi per començar les activitats!&quot;},&quot;cardsGame&quot;:[{&quot;url&quot;:&quot;resources/eintenstein3.jpg&quot;,&quot;x&quot;:0.31939657803239496,&quot;y&quot;:0.4450433665308459,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;Einstein&quot;},{&quot;url&quot;:&quot;resources/Einstein-y-Doc.jpg&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;'Doc'%20%C2%B7%20Emmet%20Brown&quot;},{&quot;url&quot;:&quot;resources/delorean.jpg&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;DeLorean&quot;},{&quot;url&quot;:&quot;resources/AlbertEinstein.jpg&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;Albert%20Einstein%2C%20f%C3%ADsic%20(1879-1955)&quot;},{&quot;url&quot;:&quot;resources/Almanaque1985A.png&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;Almanach&quot;},{&quot;url&quot;:&quot;resources/BenFranklin.jpg&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;Ben%20Franklin%2C%20pol%C3%ADmata%20(1706-1790)&quot;},{&quot;url&quot;:&quot;resources/Biff_Tannen4.jpg&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;Biff%20Tannen&quot;},{&quot;url&quot;:&quot;resources/CarteldeHillValley-1985.png&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;Hill%20Valley&quot;},{&quot;url&quot;:&quot;resources/Casadelacorte-2015.jpg&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;'Torre%20del%20rellotge'%20%C2%B7%20Casa%20de%20les%20corts&quot;},{&quot;url&quot;:&quot;resources/CasaMarty_TransportEnergia.jpg&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;Casa%20de%20la%20fam%C3%ADlia%20McFly&quot;},{&quot;url&quot;:&quot;resources/Cicuitosdeltiempo.png&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;Rellotge%20per%20viatjar%20en%20el%20temps&quot;},{&quot;url&quot;:&quot;resources/GeorgeMcFly.jpg&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;George%20McFly&quot;},{&quot;url&quot;:&quot;resources/Hedy_Lamarr_-_adolescent_.jpg&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;Hedy%20Lamarr%2C%20actriu%2C%20enginyera%20i%20inventora&quot;},{&quot;url&quot;:&quot;resources/Jennifer_Parker.jpg&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;Jennifer%20Parker&quot;},{&quot;url&quot;:&quot;resources/Lorraine_Baines_McFly4.JPG&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;Lorraine%20Baines-McFly&quot;},{&quot;url&quot;:&quot;resources/LorraineHouse.JPG&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;Casa%20familiar%20de%20Lorraine%20de%20jove&quot;},{&quot;url&quot;:&quot;resources/twinpines_lonepine_mall.jpg&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;Twin%20Pines&quot;},{&quot;url&quot;:&quot;resources/goldie_wilson_young.jpg&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;author&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;audio&quot;:&quot;&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;backcolor&quot;:&quot;#ffffff&quot;,&quot;eText&quot;:&quot;&quot;,&quot;urlBk&quot;:&quot;&quot;,&quot;xBk&quot;:0,&quot;yBk&quot;:0,&quot;authorBk&quot;:&quot;&quot;,&quot;altBk&quot;:&quot;&quot;,&quot;audioBk&quot;:&quot;&quot;,&quot;colorBk&quot;:&quot;#000000&quot;,&quot;backcolorBk&quot;:&quot;#ffffff&quot;,&quot;eTextBk&quot;:&quot;Alcalde%20Goldie%20Wilson&quot;}],&quot;isScorm&quot;:1,&quot;textButtonScorm&quot;:&quot;Desa puntuació&quot;,&quot;repeatActivity&quot;:true,&quot;textAfter&quot;:&quot;&quot;,&quot;version&quot;:1.3,&quot;percentajeCards&quot;:100,&quot;type&quot;:0,&quot;showSolution&quot;:true,&quot;timeShowSolution&quot;:3,&quot;time&quot;:3,&quot;evaluation&quot;:false,&quot;evaluationID&quot;:&quot;Einstein&quot;,&quot;id&quot;:&quot;202582314310-120&quot;,&quot;msgs&quot;:{&quot;msgSubmit&quot;:&quot;Envia&quot;,&quot;msgClue&quot;:&quot;Genial. La pista és:&quot;,&quot;msgCodeAccess&quot;:&quot;Codi d'accés&quot;,&quot;msgPlayStart&quot;:&quot;Prem aquí per jugar&quot;,&quot;msgScore&quot;:&quot;Puntuació&quot;,&quot;msgErrors&quot;:&quot;Errors&quot;,&quot;msgHits&quot;:&quot;Encerts&quot;,&quot;msgMinimize&quot;:&quot;Minimitza&quot;,&quot;msgMaximize&quot;:&quot;Maximitza&quot;,&quot;msgFullScreen&quot;:&quot;Pantalla completa&quot;,&quot;msgExitFullScreen&quot;:&quot;Surt de la pantalla completa&quot;,&quot;msgNoImage&quot;:&quot;Qüestió sense imatges&quot;,&quot;msgEndGameScore&quot;:&quot;Inicieu el joc abans de desar la puntuació.&quot;,&quot;msgScoreScorm&quot;:&quot;La puntuació no es pot desar ja que aquesta pàgina no forma part de un paquet SCORM.&quot;,&quot;msgOnlySaveScore&quot;:&quot;Sols podeu desar la puntuació una vegada!&quot;,&quot;msgOnlySave&quot;:&quot;Sols la podeu desar una vegada&quot;,&quot;msgInformation&quot;:&quot;Informació&quot;,&quot;msgYouScore&quot;:&quot;La seva puntuació&quot;,&quot;msgAuthor&quot;:&quot;Autoria&quot;,&quot;msgOnlySaveAuto&quot;:&quot;La puntuació es desarà després de cada pregunta. Només podeu  jugar una vegada.&quot;,&quot;msgSaveAuto&quot;:&quot;La puntuació es desarà després de cada pregunta de forma automàtica.&quot;,&quot;msgSeveralScore&quot;:&quot;Podeu desar la puntuació tantes vegades com vulgueu&quot;,&quot;msgYouLastScore&quot;:&quot;La darrera puntuació desada és&quot;,&quot;msgActityComply&quot;:&quot;Ja heu fet aquesta activitat. &quot;,&quot;msgPlaySeveralTimes&quot;:&quot;Podeu fer aquesta activitat tantes vegades com vulgueu&quot;,&quot;msgClose&quot;:&quot;Tanca&quot;,&quot;msgAudio&quot;:&quot;Àudio&quot;,&quot;msgNumQuestions&quot;:&quot;Nombre de targetes&quot;,&quot;msgTryAgain&quot;:&quot;Cal almenys %s% de respostes correctes per obtenir la informació. Torna-ho a provar.&quot;,&quot;msgEndGameM&quot;:&quot;Heu finalitzat el joc. La vostra puntuació és %s.&quot;,&quot;msgUncompletedActivity&quot;:&quot;Activitat incompleta&quot;,&quot;msgSuccessfulActivity&quot;:&quot;Activitat. Superada. Puntuació %s&quot;,&quot;msgUnsuccessfulActivity&quot;:&quot;Activitat: No superada. Puntuació %s&quot;,&quot;msgTypeGame&quot;:&quot;Relaciona&quot;,&quot;msgCheck&quot;:&quot;Comprova&quot;,&quot;msgRestart&quot;:&quot;Reinicia&quot;}}&lt;/div&gt;&lt;a href=&quot;resources/eintenstein3.jpg&quot; class=&quot;js-hidden relaciona-LinkImages&quot;&gt;0&lt;/a&gt;&lt;a href=&quot;resources/Einstein-y-Doc.jpg&quot; class=&quot;js-hidden relaciona-LinkImages&quot;&gt;1&lt;/a&gt;&lt;a href=&quot;resources/delorean.jpg&quot; class=&quot;js-hidden relaciona-LinkImages&quot;&gt;2&lt;/a&gt;&lt;a href=&quot;resources/AlbertEinstein.jpg&quot; class=&quot;js-hidden relaciona-LinkImages&quot;&gt;3&lt;/a&gt;&lt;a href=&quot;resources/Almanaque1985A.png&quot; class=&quot;js-hidden relaciona-LinkImages&quot;&gt;4&lt;/a&gt;&lt;a href=&quot;resources/BenFranklin.jpg&quot; class=&quot;js-hidden relaciona-LinkImages&quot;&gt;5&lt;/a&gt;&lt;a href=&quot;resources/Biff_Tannen4.jpg&quot; class=&quot;js-hidden relaciona-LinkImages&quot;&gt;6&lt;/a&gt;&lt;a href=&quot;resources/CarteldeHillValley-1985.png&quot; class=&quot;js-hidden relaciona-LinkImages&quot;&gt;7&lt;/a&gt;&lt;a href=&quot;resources/Casadelacorte-2015.jpg&quot; class=&quot;js-hidden relaciona-LinkImages&quot;&gt;8&lt;/a&gt;&lt;a href=&quot;resources/CasaMarty_TransportEnergia.jpg&quot; class=&quot;js-hidden relaciona-LinkImages&quot;&gt;9&lt;/a&gt;&lt;a href=&quot;resources/Cicuitosdeltiempo.png&quot; class=&quot;js-hidden relaciona-LinkImages&quot;&gt;10&lt;/a&gt;&lt;a href=&quot;resources/GeorgeMcFly.jpg&quot; class=&quot;js-hidden relaciona-LinkImages&quot;&gt;11&lt;/a&gt;&lt;a href=&quot;resources/Hedy_Lamarr_-_adolescent_.jpg&quot; class=&quot;js-hidden relaciona-LinkImages&quot;&gt;12&lt;/a&gt;&lt;a href=&quot;resources/Jennifer_Parker.jpg&quot; class=&quot;js-hidden relaciona-LinkImages&quot;&gt;13&lt;/a&gt;&lt;a href=&quot;resources/Lorraine_Baines_McFly4.JPG&quot; class=&quot;js-hidden relaciona-LinkImages&quot;&gt;14&lt;/a&gt;&lt;a href=&quot;resources/LorraineHouse.JPG&quot; class=&quot;js-hidden relaciona-LinkImages&quot;&gt;15&lt;/a&gt;&lt;a href=&quot;resources/twinpines_lonepine_mall.jpg&quot; class=&quot;js-hidden relaciona-LinkImages&quot;&gt;16&lt;/a&gt;&lt;a href=&quot;resources/goldie_wilson_young.jpg&quot; class=&quot;js-hidden relaciona-LinkImages&quot;&gt;17&lt;/a&gt;&lt;div class=&quot;relaciona-bns js-hidden&quot;&gt;El vostre navegador no és compatible amb aquesta eina.&lt;/div&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
               <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -1062,10 +1112,10 @@
                    <string role="key" value="_id"></string>
                    <unicode value="26_134_2.80"></unicode>
                    <string role="key" value="_imageResource"></string>
-                   <instance class="exe.engine.resource.Resource" reference="19">
+                   <instance class="exe.engine.resource.Resource" reference="20">
                     <dictionary>
                      <string role="key" value="_idevice"></string>
-                     <reference key="17"></reference>
+                     <reference key="18"></reference>
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
@@ -1083,7 +1133,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_parent"></string>
-                   <reference key="18"></reference>
+                   <reference key="19"></reference>
                    <string role="key" value="_thumbnailResource"></string>
                    <none></none>
                    <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -1114,10 +1164,10 @@
                    <string role="key" value="_id"></string>
                    <unicode value="26_134_2.81"></unicode>
                    <string role="key" value="_imageResource"></string>
-                   <instance class="exe.engine.resource.Resource" reference="20">
+                   <instance class="exe.engine.resource.Resource" reference="21">
                     <dictionary>
                      <string role="key" value="_idevice"></string>
-                     <reference key="17"></reference>
+                     <reference key="18"></reference>
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
@@ -1135,7 +1185,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_parent"></string>
-                   <reference key="18"></reference>
+                   <reference key="19"></reference>
                    <string role="key" value="_thumbnailResource"></string>
                    <none></none>
                    <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -1166,10 +1216,10 @@
                    <string role="key" value="_id"></string>
                    <unicode value="26_134_2.82"></unicode>
                    <string role="key" value="_imageResource"></string>
-                   <instance class="exe.engine.resource.Resource" reference="21">
+                   <instance class="exe.engine.resource.Resource" reference="22">
                     <dictionary>
                      <string role="key" value="_idevice"></string>
-                     <reference key="17"></reference>
+                     <reference key="18"></reference>
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
@@ -1187,7 +1237,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_parent"></string>
-                   <reference key="18"></reference>
+                   <reference key="19"></reference>
                    <string role="key" value="_thumbnailResource"></string>
                    <none></none>
                    <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -1218,10 +1268,10 @@
                    <string role="key" value="_id"></string>
                    <unicode value="26_134_2.83"></unicode>
                    <string role="key" value="_imageResource"></string>
-                   <instance class="exe.engine.resource.Resource" reference="22">
+                   <instance class="exe.engine.resource.Resource" reference="23">
                     <dictionary>
                      <string role="key" value="_idevice"></string>
-                     <reference key="17"></reference>
+                     <reference key="18"></reference>
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
@@ -1239,7 +1289,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_parent"></string>
-                   <reference key="18"></reference>
+                   <reference key="19"></reference>
                    <string role="key" value="_thumbnailResource"></string>
                    <none></none>
                    <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -1270,10 +1320,10 @@
                    <string role="key" value="_id"></string>
                    <unicode value="26_134_2.84"></unicode>
                    <string role="key" value="_imageResource"></string>
-                   <instance class="exe.engine.resource.Resource" reference="23">
+                   <instance class="exe.engine.resource.Resource" reference="24">
                     <dictionary>
                      <string role="key" value="_idevice"></string>
-                     <reference key="17"></reference>
+                     <reference key="18"></reference>
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
@@ -1291,7 +1341,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_parent"></string>
-                   <reference key="18"></reference>
+                   <reference key="19"></reference>
                    <string role="key" value="_thumbnailResource"></string>
                    <none></none>
                    <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -1322,10 +1372,10 @@
                    <string role="key" value="_id"></string>
                    <unicode value="26_134_2.85"></unicode>
                    <string role="key" value="_imageResource"></string>
-                   <instance class="exe.engine.resource.Resource" reference="24">
+                   <instance class="exe.engine.resource.Resource" reference="25">
                     <dictionary>
                      <string role="key" value="_idevice"></string>
-                     <reference key="17"></reference>
+                     <reference key="18"></reference>
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
@@ -1343,7 +1393,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_parent"></string>
-                   <reference key="18"></reference>
+                   <reference key="19"></reference>
                    <string role="key" value="_thumbnailResource"></string>
                    <none></none>
                    <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -1374,10 +1424,10 @@
                    <string role="key" value="_id"></string>
                    <unicode value="26_134_2.86"></unicode>
                    <string role="key" value="_imageResource"></string>
-                   <instance class="exe.engine.resource.Resource" reference="25">
+                   <instance class="exe.engine.resource.Resource" reference="26">
                     <dictionary>
                      <string role="key" value="_idevice"></string>
-                     <reference key="17"></reference>
+                     <reference key="18"></reference>
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
@@ -1395,7 +1445,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_parent"></string>
-                   <reference key="18"></reference>
+                   <reference key="19"></reference>
                    <string role="key" value="_thumbnailResource"></string>
                    <none></none>
                    <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -1426,10 +1476,10 @@
                    <string role="key" value="_id"></string>
                    <unicode value="26_134_2.87"></unicode>
                    <string role="key" value="_imageResource"></string>
-                   <instance class="exe.engine.resource.Resource" reference="26">
+                   <instance class="exe.engine.resource.Resource" reference="27">
                     <dictionary>
                      <string role="key" value="_idevice"></string>
-                     <reference key="17"></reference>
+                     <reference key="18"></reference>
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
@@ -1447,7 +1497,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_parent"></string>
-                   <reference key="18"></reference>
+                   <reference key="19"></reference>
                    <string role="key" value="_thumbnailResource"></string>
                    <none></none>
                    <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -1478,10 +1528,10 @@
                    <string role="key" value="_id"></string>
                    <unicode value="26_134_2.88"></unicode>
                    <string role="key" value="_imageResource"></string>
-                   <instance class="exe.engine.resource.Resource" reference="27">
+                   <instance class="exe.engine.resource.Resource" reference="28">
                     <dictionary>
                      <string role="key" value="_idevice"></string>
-                     <reference key="17"></reference>
+                     <reference key="18"></reference>
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
@@ -1499,7 +1549,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_parent"></string>
-                   <reference key="18"></reference>
+                   <reference key="19"></reference>
                    <string role="key" value="_thumbnailResource"></string>
                    <none></none>
                    <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -1530,10 +1580,10 @@
                    <string role="key" value="_id"></string>
                    <unicode value="26_134_2.89"></unicode>
                    <string role="key" value="_imageResource"></string>
-                   <instance class="exe.engine.resource.Resource" reference="28">
+                   <instance class="exe.engine.resource.Resource" reference="29">
                     <dictionary>
                      <string role="key" value="_idevice"></string>
-                     <reference key="17"></reference>
+                     <reference key="18"></reference>
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
@@ -1551,7 +1601,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_parent"></string>
-                   <reference key="18"></reference>
+                   <reference key="19"></reference>
                    <string role="key" value="_thumbnailResource"></string>
                    <none></none>
                    <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -1582,10 +1632,10 @@
                    <string role="key" value="_id"></string>
                    <unicode value="26_134_2.90"></unicode>
                    <string role="key" value="_imageResource"></string>
-                   <instance class="exe.engine.resource.Resource" reference="29">
+                   <instance class="exe.engine.resource.Resource" reference="30">
                     <dictionary>
                      <string role="key" value="_idevice"></string>
-                     <reference key="17"></reference>
+                     <reference key="18"></reference>
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
@@ -1603,7 +1653,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_parent"></string>
-                   <reference key="18"></reference>
+                   <reference key="19"></reference>
                    <string role="key" value="_thumbnailResource"></string>
                    <none></none>
                    <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -1634,10 +1684,10 @@
                    <string role="key" value="_id"></string>
                    <unicode value="26_134_2.91"></unicode>
                    <string role="key" value="_imageResource"></string>
-                   <instance class="exe.engine.resource.Resource" reference="30">
+                   <instance class="exe.engine.resource.Resource" reference="31">
                     <dictionary>
                      <string role="key" value="_idevice"></string>
-                     <reference key="17"></reference>
+                     <reference key="18"></reference>
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
@@ -1655,7 +1705,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_parent"></string>
-                   <reference key="18"></reference>
+                   <reference key="19"></reference>
                    <string role="key" value="_thumbnailResource"></string>
                    <none></none>
                    <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -1686,10 +1736,10 @@
                    <string role="key" value="_id"></string>
                    <unicode value="26_134_2.92"></unicode>
                    <string role="key" value="_imageResource"></string>
-                   <instance class="exe.engine.resource.Resource" reference="31">
+                   <instance class="exe.engine.resource.Resource" reference="32">
                     <dictionary>
                      <string role="key" value="_idevice"></string>
-                     <reference key="17"></reference>
+                     <reference key="18"></reference>
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
@@ -1707,7 +1757,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_parent"></string>
-                   <reference key="18"></reference>
+                   <reference key="19"></reference>
                    <string role="key" value="_thumbnailResource"></string>
                    <none></none>
                    <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -1738,10 +1788,10 @@
                    <string role="key" value="_id"></string>
                    <unicode value="26_134_2.93"></unicode>
                    <string role="key" value="_imageResource"></string>
-                   <instance class="exe.engine.resource.Resource" reference="32">
+                   <instance class="exe.engine.resource.Resource" reference="33">
                     <dictionary>
                      <string role="key" value="_idevice"></string>
-                     <reference key="17"></reference>
+                     <reference key="18"></reference>
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
@@ -1759,7 +1809,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_parent"></string>
-                   <reference key="18"></reference>
+                   <reference key="19"></reference>
                    <string role="key" value="_thumbnailResource"></string>
                    <none></none>
                    <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -1790,10 +1840,10 @@
                    <string role="key" value="_id"></string>
                    <unicode value="26_134_2.94"></unicode>
                    <string role="key" value="_imageResource"></string>
-                   <instance class="exe.engine.resource.Resource" reference="33">
+                   <instance class="exe.engine.resource.Resource" reference="34">
                     <dictionary>
                      <string role="key" value="_idevice"></string>
-                     <reference key="17"></reference>
+                     <reference key="18"></reference>
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
@@ -1811,7 +1861,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_parent"></string>
-                   <reference key="18"></reference>
+                   <reference key="19"></reference>
                    <string role="key" value="_thumbnailResource"></string>
                    <none></none>
                    <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -1842,10 +1892,10 @@
                    <string role="key" value="_id"></string>
                    <unicode value="26_134_2.95"></unicode>
                    <string role="key" value="_imageResource"></string>
-                   <instance class="exe.engine.resource.Resource" reference="34">
+                   <instance class="exe.engine.resource.Resource" reference="35">
                     <dictionary>
                      <string role="key" value="_idevice"></string>
-                     <reference key="17"></reference>
+                     <reference key="18"></reference>
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
@@ -1863,7 +1913,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_parent"></string>
-                   <reference key="18"></reference>
+                   <reference key="19"></reference>
                    <string role="key" value="_thumbnailResource"></string>
                    <none></none>
                    <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -1894,10 +1944,10 @@
                    <string role="key" value="_id"></string>
                    <unicode value="26_134_2.96"></unicode>
                    <string role="key" value="_imageResource"></string>
-                   <instance class="exe.engine.resource.Resource" reference="35">
+                   <instance class="exe.engine.resource.Resource" reference="36">
                     <dictionary>
                      <string role="key" value="_idevice"></string>
-                     <reference key="17"></reference>
+                     <reference key="18"></reference>
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
@@ -1915,7 +1965,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_parent"></string>
-                   <reference key="18"></reference>
+                   <reference key="19"></reference>
                    <string role="key" value="_thumbnailResource"></string>
                    <none></none>
                    <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -1946,10 +1996,10 @@
                    <string role="key" value="_id"></string>
                    <unicode value="26_134_2.97"></unicode>
                    <string role="key" value="_imageResource"></string>
-                   <instance class="exe.engine.resource.Resource" reference="36">
+                   <instance class="exe.engine.resource.Resource" reference="37">
                     <dictionary>
                      <string role="key" value="_idevice"></string>
-                     <reference key="17"></reference>
+                     <reference key="18"></reference>
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
@@ -1967,7 +2017,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_parent"></string>
-                   <reference key="18"></reference>
+                   <reference key="19"></reference>
                    <string role="key" value="_thumbnailResource"></string>
                    <none></none>
                    <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -1978,7 +2028,7 @@
                  </instance>
                 </list>
                 <string role="key" value="idevice"></string>
-                <reference key="18"></reference>
+                <reference key="19"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
@@ -2010,7 +2060,6 @@
            <bool value="1"></bool>
            <string role="key" value="userResources"></string>
            <list>
-            <reference key="19"></reference>
             <reference key="20"></reference>
             <reference key="21"></reference>
             <reference key="22"></reference>
@@ -2028,12 +2077,13 @@
             <reference key="34"></reference>
             <reference key="35"></reference>
             <reference key="36"></reference>
+            <reference key="37"></reference>
            </list>
            <string role="key" value="version"></string>
            <int value="0"></int>
           </dictionary>
          </instance>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="37">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="38">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Sopa de Lletres - Fonts d'energia i objectes tecnològics"></unicode>
@@ -2094,12 +2144,12 @@
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="38">
+            <instance class="exe.engine.field.TextAreaField" reference="39">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="135_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="37"></reference>
+              <reference key="38"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -2109,7 +2159,7 @@
               <string role="key" value="anchors_linked_from_fields"></string>
               <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
-              <unicode content="true" value="&lt;div class=&quot;sopa-IDevice&quot;&gt;&lt;div class=&quot;sopa-version js-hidden&quot;&gt;2&lt;/div&gt;&lt;div class=&quot;sopa-feedback-game&quot;&gt;&lt;/div&gt;&lt;div class=&quot;sopa-instructions gameQP-instructions&quot;&gt;&lt;p&gt;Trobeu els mots que es troben ocults a la sopa de lletres.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;sopa-DataGame js-hidden&quot;&gt;%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C1%FD%E2%F3%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%C6%E0%FD%F0%F7%E7%B2%F7%FE%E1%B2%FF%FD%E6%E1%B2%E3%E7%F7%B2%F7%E1%B2%E6%E0%FD%F0%F7%FC%B2%FD%F1%E7%FE%E6%E1%B2%F3%B2%FE%F3%B2%E1%FD%E2%F3%B2%F6%F7%B2%FE%FE%F7%E6%E0%F7%E1%BC%AE%BD%E2%AC%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%E6%E0%E7%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%DD%F0%F8%F7%F1%E6%FB%E7%B2%F3%F1%FD%FC%E1%F7%F5%E7%FB%E6%B3%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A3%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%E6%E0%E7%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D7%FC%F7%E0%F5%FB%F3%A0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D7%E1%F1%E0%FB%E7%B2%F7%FE%B2%F1%FD%F6%FB%B2%F3%F1%FD%FC%E1%F7%F5%E7%FB%E6%B2%F3%B2%FE%B5%F3%F1%E6%FB%E4%FB%E6%F3%E6%B2%F3%FC%E6%F7%E0%FB%FD%E0%B0%EF%BE%B0%E5%FD%E0%F6%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%E5%FD%E0%F6%B0%A8%B0%D5%E7%FB%E6%F3%E0%E0%F3%D7%FEz%F1%E6%E0%FB%F1%F3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C7%E6%FB%FE%FB%E6%E8%F3%B2%F7%FE%F7%F1%E6%E0%FB%F1%FB%E6%F3%E6%B2%F5%F7%FC%F7%E0%F3%F6%F3%B2%F3%B2%E7%FC%F3%B2%F1%F7%FC%E6%E0%F3%FE%B2%F7%FEz%F1%E6%E0%FB%F1%F3%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%D6%F7%DE%FD%E0%F7%F3%FC%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C4%F7%FA%FB%F1%FE%F7%B2%FF%FD%F6%FB%F4%FB%F1%F3%E6%B2%E2%F7%E0%B2%E4%FB%F3%E6%F8%F3%E0%B2%F7%FC%B2%F7%FE%B2%E6%F7%FF%E2%E1%B2%FF%FB%E6%F8%F3%FCu%F3%FC%E6%B2%E7%FC%B2%F4%FE%E7%EA%B2%F6%u208B%F7%FC%F7%E0%F5%FB%F3%B2%FF%FD%FE%E6%B2%F7%FE%F7%E4%F3%E6%BC%B2%DB%FC%FB%F1%FB%F3%FE%FF%F7%FC%E6%B2%F3%FF%F0%B2%C7%E0%F3%FC%FB%B2%FB%B2%F6%F7%E1%E2%E0%7B%E1%B2%F3%FF%F0%B2%F0%FB%FD%FF%F3%E1%E1%F3%BC%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%D7%FC%F7%E0%F5%FB%F3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%CE%B0%DC%FD%B2%F7%E1%B2%F1%E0%F7%F3%B2%FC%FB%B2%F7%E1%B2%F6%F7%E1%E6%E0%E7%F7%FB%EA%BE%B2%F7%E1%B2%E6%E0%F3%FC%E1%F4%FD%E0%FF%F3%CE%B0%BC%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%D1%FD%FC%F6%F7%FC%E1%F3%F6%FD%E0%D6%F7%D4%FE%E7%EA%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B2%D6%FB%E1%E2%FD%E1%FB%E6%FB%E7%B2%F4%FB%F1%E6%FB%F1%FB%B2%E3%E7%F7%B2%E2%F7%E0%FF%F7%E6%B2%F4%F7%E0%B2%E4%FB%F3%E6%F5%F7%E1%B2%F7%FC%B2%F7%FE%B2%E6%F7%FF%E2%E1%B2%E3%E7%F3%FC%B2%E0%F7%E2%B2%E2%E0%FD%E7%B2%F7%FC%F7%E0%F5%FB%F3%BC%B2%DC%F7%F1%F7%E1%E1%FB%E6%F3%B2%E7%FC%B2%E2%FB%F1%B2%F6%u208B%F7%FE%F7%F1%E6%E0%FB%F1%FB%E6%F3%E6%B2%BA%A3%BE%A0%A3%B2%D5%C5%BB%B2%E2%F7%E0%B2%F3%F1%E6%FB%E4%F3%E0%BF%E1%F7%BC%BC%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%C6%FD%E0%E0%F7%D6%F7%FE%C0%F7%FE%FE%FD%E6%F5%F7%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C2%F3%E0%E6%B2%F6%F7%B2%FE%B5%F7%F6%FB%F4%FB%F1%FB%B2%FF%7B%E1%B2%FB%FF%E2%FD%E0%E6%F3%FC%E6%B2%F6%F7%B2%DA%FB%FE%FE%B2%C4%F3%FE%FE%F7%EB%BE%B2%E4%F3%B2%F1%F3%E7%E0%F7%B2%E7%FC%B2%FE%FE%F3%FF%E2%BC%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%DE%FE%F3%FF%E2%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D6%F7%E1%F1r%E0%E0%F7%F5%F3%B2%F7%FEz%F1%E6%E0%FB%F1%F3%B2%F3%E6%FF%FD%E1%F4z%E0%FB%F1%F3%B2%F6%u208B%F7%FC%FD%E0%FF%F7%B2%E2%FD%E6z%FC%F1%FB%F3%BC%B2%5B%E1%B2%E7%FC%F3%B2%F4%FD%FC%E6%B2%FC%F3%E6%E7%E0%F3%FE%B2%F6%u208B%F7%FC%F7%E0%F5%FB%F3%B2%F7%FEz%F1%E6%E0%FB%F1%F3%BC%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%C2%FB%FE%F7%E1%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D5%F7%FC%F7%E0%F3%F6%FD%E0%E1%B2%F6%B5%F7%FE%F7%F1%E6%E0%FB%F1%FB%E6%F3%E6%B2%E3%E7%F7%B2%E7%E6%FB%FE%FB%E6%E8%F7%FC%B2%F7%FC%F7%E0%F5%FB%F3%B2%E3%E7%7F%FF%FB%F1%F3%B2%F7%FF%FF%F3%F5%F3%E6%E8%F7%FF%F3%F6%F3%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%D1%FB%FC%E6%F3%D6%F7%D1%F3%E1%E1%F7%E6%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C1%E7%E2%FD%E0%E6%B2%F3%FC%E6%FB%F1%B2%F6%B5%F7%FF%FF%F3%F5%F3%E6%E8%F7%FC%F3%FF%F7%FC%E6%B2%F6%F7%B2%F6%F3%F6%F7%E1%B2%BAr%E7%F6%FB%FD%E1%BE%B2%FFh%E1%FB%F1%F3%BB%B2%E3%E7%F7%B2%F7%E0%F3%B2%FF%F3%F5%FCz%E6%FB%F1%B2%FB%B2%F3%FC%F3%FE%60%F5%FB%F1%B8%BC%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%C0%F3%F6%FB%FD%D1%F3%E1%E1%F7%E6%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D3%E2%F3%E0%F7%FE%FE%B2%E3%E7%F7%B2%E0%F7%E2%E0%FD%F6%E7%7D%F3%B2%FE%F3%B2%E0r%F6%FB%FD%B2%FD%B2%FE%B5r%E7%F6%FB%FD%B2%F6%F7%B2%FE%F7%E1%B2%F1%FB%FC%E6%F7%E1%B2%F6%F7%B2%F1%F3%E1%E1%F7%E6%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%C5%F3%FE%F9%FF%F3%FC%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D3%E2%F3%E0%F7%FE%FE%BE%B2%F6%F7%B2%FF%FB%F6%F3%B2%E0%F7%FE%F3%E6%FB%E4%F3%FF%F7%FC%E6%B2%E2%F7%E6%FB%E6%F3%BE%B2%E3%E7%F7%B2%E0%F7%E2%E0%FD%F6%E7%7D%F3%B2%F6%F7%B2%F1%FB%FC%E6%F7%E1%B2%F6%F7%B2%F1%F3%E1%E1%F7%E6%B2%FB%B2%E2%F7%E0%FF%F7%E6%FB%F3%B2%F1%FD%FC%FC%F7%F1%E6%F3%E0%B2%F3%E7%E0%FB%F1%E7%FE%F3%E0%E1%B2%F3%FF%F0%B2%F1%F3%F0%FE%F7%B2%E2%F7%E0%B2%E2%FD%F6%F7%E0%B2%F7%E1%F1%FD%FE%E6%F3%E0%B2%FE%F3%B2%FFh%E1%FB%F1%F3%B2%FB%B2%FF%FD%FE%E6%B2%F4r%F1%FB%FE%B2%F6%F7%B2%E6%E0%F3%FC%E1%E2%FD%E0%E6%F3%E0%BC%B2%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%D1%FD%E6%EA%F7%E1%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C4%F7%FA%FB%F1%FE%F7%E1%B2%FC%FD%E0%FF%F3%FE%E1%B2%E3%E7%F7%B2%F7%E1%B2%F6%F7%E1%E2%FE%F3%F1%F7%FC%B2%F5%E0r%F1%FB%F7%E1%B2%F3%B2%FE%F3%B2%F1%FD%FF%F0%E7%E1%E6%FBa%B2%F6%F7%B2%F5%F3%E1%FD%FE%FB%FC%F3%BC%B2%C7%E6%FB%FE%FB%E6%E8%F7%FC%B2%F7%FC%F7%E0%F5%FB%F3%B2%E3%E7%7F%FF%FB%F1%F3%B2%F6%F7%FE%B2%E2%F7%E6%E0%FD%FE%FB%BC%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%DF%FD%FC%FD%E2%F3%E6%7F%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C6%F3%E7%FE%F3%B2%F3%FF%F0%B2%E0%FD%F6%F7%E1%B2%FF%FD%F5%E7%F6%F3%B2%E2%F7%E0%B2%FE%F3%B2%F4%FD%E0u%F3%B2%F6%F7%B2%E3%E7%FB%B2%FE%F3%B2%F1%FD%FC%F6%E7%F7%FB%EA%BC%B2%D4%E7%FC%F1%FB%FD%FC%F3%B2%F3%FF%F0%B2%F7%FC%F7%E0%F5%FB%F3%B2%FF%F7%F1r%FC%FB%F1%F3%B2%F6%F7%FE%B2%FF%FD%E4%FB%FF%F7%FC%E6%B2%FA%E7%FFr%BC%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D6%F7%E1%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%F4%F3%FE%E1%F7%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A3%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%F6%FB%F3%F5%FD%FC%F3%FE%E1%B0%A8%E6%E0%E7%F7%BE%B0%E0%F7%E4%F7%E0%E1%F7%E1%B0%A8%E6%E0%E7%F7%BE%B0%E1%FA%FD%E5%C0%F7%E1%FD%FE%E4%F7%B0%A8%E6%E0%E7%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%E6%E0%E7%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%D7%FB%FC%E1%E6%F7%FB%FC%B0%BE%B0%FB%F6%B0%A8%B0%A0%A2%A0%A7%AA%A0%A1%A3%A6%A1%A5%A6%A5%BF%A3%A0%A2%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C0%F7%E2%FE%EB%B0%A8%B0%C0%F7%E1%E2%FD%FC%B0%BE%B0%FF%E1%F5%D7%FC%E6%F7%E0%D1%FD%F6%F7%B0%A8%B0%D7%FC%E6%E0%F3%B2%F7%FE%B2%F1%FD%F6%FB%B2%F6%B5%F3%F1%F1%7B%E1%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%D1%FD%F6%F7%B0%A8%B0%D7%FE%B2%F1%FD%F6%FB%B2%F6%B5%F3%F1%F1%7B%E1%B2%FC%FD%B2%7B%E1%B2%F1%FD%E0%E0%F7%F1%E6%F7%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B0%D5%F7%FC%FB%F3%FE%BC%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%7B%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1%FD%F6%FB%B2%F6%B5%F3%F1%F1%7B%E1%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E0%F7%FF%B2%F3%E3%E7%7F%B2%E2%F7%E0%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D7%FC%F1%F7%E0%E6%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E6%E8%F3%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E6%E8%F3%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%C6%F7%FF%E2%E1%B2%FE%7F%FF%FB%E6%B2%BA%FF%FF%A8%E1%E1%BB%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%E7%E0%E6%B2%F6%F7%B2%FE%F3%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DC%FD%FF%F0%E0%F7%B2%F6%F7%B2%E3n%F7%E1%E6%FB%FD%FC%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C3n%F7%E1%E6%FBa%B2%E1%F7%FC%E1%F7%B2%FB%FF%F3%E6%F5%F7%E1%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B0%D0%7B%B3%B2%EE%B2%DF%FD%FE%E6%B2%F0%7B%B3%B2%EE%B2%D5%F7%FC%FB%F3%FE%B3%B2%EE%B2%D7%EA%F1%F7%FE%B2%25%B2%FE%F7%FC%E6%B3%B2%EE%B2%C2%F7%E0%F4%F7%F1%E6%F7%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B0%DC%FD%B2%F7%E0%F3%B2%F3%FB%EA%7F%B3%B2%EE%B2%DB%FC%F1%FD%E0%E0%F7%F1%E6%F7%B3%B2%EE%B2%DC%FD%B2%F1%FD%E0%E0%F7%F1%E6%F7%B3%B2%EE%B2%DA%FD%B2%E1%F7%FC%E6%FD%B3%B2%EE%B2%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%D1%F3%FE%B2%F3%FE%FF%F7%FC%EB%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%FD%E1%E6%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%F7%E1%B2%E2%F7%E0%B2%FD%F0%E6%F7%FC%FB%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%BC%B2%C6%FD%E0%FC%F3%BF%FA%FD%B2%F3%B2%E2%E0%FD%E4%F3%E0%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%B2%FC%FD%B2%F7%E1%B2%E2%FD%E6%B2%F6%F7%E1%F3%E0%B2%F8%F3%B2%E3%E7%F7%B2%F3%E3%E7%F7%E1%E6%F3%B2%E2r%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B0%C1%FD%FE%E1%B2%E2%FD%F6%F7%E7%B2%F6%F7%E1%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%B2%E7%FC%F3%B2%E4%F7%F5%F3%F6%F3%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%E1%B2%FE%F3%B2%E2%FD%F6%F7%E7%B2%F6%F7%E1%F3%E0%B2%E7%FC%F3%B2%E4%F7%F5%F3%F6%F3%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%B2%F7%E1%B2%F6%F7%E1%F3%E0r%B2%F6%F7%E1%E2%E0%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%DC%FD%FF%7B%E1%B2%E2%FD%F6%F7%E7%B2%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%F5%F3%F6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%B2%F7%E1%B2%F6%F7%E1%F3%E0r%B2%F6%F7%E1%E2%E0%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%B2%F6%F7%B2%F4%FD%E0%FF%F3%B2%F3%E7%E6%FD%FFr%E6%FB%F1%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%FD%F6%F7%E7%B2%F6%F7%E1%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%B2%E6%F3%FC%E6%F7%E1%B2%E4%F7%F5%F3%F6%F7%E1%B2%F1%FD%FF%B2%E4%E7%FE%F5%E7%F7%E7%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2%F6%F3%E0%E0%F7%E0%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%B2%F6%F7%E1%F3%F6%F3%B2%7B%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%D8%F3%B2%FA%F7%E7%B2%F4%F7%E6%B2%F3%E3%E7%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%E6%F3%E6%BC%B2%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%FD%F6%F7%E7%B2%F4%F7%E0%B2%F3%E3%E7%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%E6%F3%E6%B2%E6%F3%FC%E6%F7%E1%B2%E4%F7%F5%F3%F6%F7%E1%B2%F1%FD%FF%B2%E4%E7%FE%F5%E7%F7%E7%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%C6%F3%FC%F1%F3%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%E1%B0%A8%B0%E2%E7%FC%E6%E1%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0R%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%C5%FD%E0%F6%E1%D4%FB%FC%F6%B0%A8%B0%DA%F7%E7%B2%E6%E0%FD%F0%F3%E6%B2%E6%FD%E6%E1%B2%F7%FE%E1%B2%FF%FD%E6%E1%BC%B2%DE%F3%B2%E4%FD%E1%E6%E0%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%B2%7B%E1%B2%B7%E1%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%DB%FC%FB%F1%FB%F3%B2%F7%FE%B2%F8%FD%F1%BC%BC%BC%B0%BE%B0%FF%F5%E1%D5%F3%FF%F7%C1%E6%F3%E0%E6%B0%A8%B0%D7%FE%B2%F8%FD%F1%B2%FA%F3%B2%F1%FD%FF%F7%FCu%F3%E6%BC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%B0%BE%B0%FF%E1%F5%D7%FC%F6%C6%FB%FF%F7%B0%A8%B0%D7%FE%B2%E6%F7%FF%E2%E1%B2%FA%F3%B2%F3%F1%F3%F0%F3%E6%BC%B2%DE%F3%B2%E4%FD%E1%E6%E0%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%B2%7B%E1%B2%B2%B7%E1%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%B0%A8%B0%D3%F1%F3%F0%F3%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%DF%B0%A8%B0%DA%F7%E7%B2%F4%FB%FC%F3%FE%FB%E6%E8%F3%E6%B2%F7%FE%B2%F8%FD%F1%BC%B2%DE%F3%B2%E4%FD%E1%E6%E0%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%B2%7B%E1%B2%B7%E1%BC%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%E6%F3%E6%B2%FB%FC%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%E6%F3%E6%BC%B2%C1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%E6%F3%E6%A8%B2%DC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C1%FD%E2%F3%B2%F6%F7%B2%FE%FE%F7%E6%E0%F7%E1%B0%EF%EF&lt;/div&gt;&lt;a href=&quot;&quot; class=&quot;js-hidden sopa-LinkImages&quot;&gt;0&lt;/a&gt;&lt;a href=&quot;&quot; class=&quot;js-hidden sopa-LinkImages&quot;&gt;1&lt;/a&gt;&lt;a href=&quot;&quot; class=&quot;js-hidden sopa-LinkImages&quot;&gt;2&lt;/a&gt;&lt;a href=&quot;&quot; class=&quot;js-hidden sopa-LinkImages&quot;&gt;3&lt;/a&gt;&lt;a href=&quot;&quot; class=&quot;js-hidden sopa-LinkImages&quot;&gt;4&lt;/a&gt;&lt;a href=&quot;&quot; class=&quot;js-hidden sopa-LinkImages&quot;&gt;5&lt;/a&gt;&lt;a href=&quot;&quot; class=&quot;js-hidden sopa-LinkImages&quot;&gt;6&lt;/a&gt;&lt;a href=&quot;&quot; class=&quot;js-hidden sopa-LinkImages&quot;&gt;7&lt;/a&gt;&lt;a href=&quot;&quot; class=&quot;js-hidden sopa-LinkImages&quot;&gt;8&lt;/a&gt;&lt;a href=&quot;&quot; class=&quot;js-hidden sopa-LinkImages&quot;&gt;9&lt;/a&gt;&lt;a href=&quot;&quot; class=&quot;js-hidden sopa-LinkImages&quot;&gt;10&lt;/a&gt;&lt;a href=&quot;&quot; class=&quot;js-hidden sopa-LinkImages&quot;&gt;11&lt;/a&gt;&lt;div class=&quot;sopa-bns js-hidden&quot;&gt;El vostre navegador no és compatible amb aquesta eina.&lt;/div&gt;&lt;/div&gt;"></unicode>
+              <unicode content="true" value="&lt;div class=&quot;sopa-IDevice&quot;&gt;&lt;div class=&quot;sopa-version js-hidden&quot;&gt;2&lt;/div&gt;&lt;div class=&quot;sopa-feedback-game&quot;&gt;&lt;/div&gt;&lt;div class=&quot;sopa-instructions gameQP-instructions&quot;&gt;&lt;p&gt;Trobeu els mots que es troben ocults a la sopa de lletres.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;sopa-DataGame js-hidden&quot;&gt;%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C1%FD%E2%F3%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%C6%E0%FD%F0%F7%E7%B2%F7%FE%E1%B2%FF%FD%E6%E1%B2%E3%E7%F7%B2%F7%E1%B2%E6%E0%FD%F0%F7%FC%B2%FD%F1%E7%FE%E6%E1%B2%F3%B2%FE%F3%B2%E1%FD%E2%F3%B2%F6%F7%B2%FE%FE%F7%E6%E0%F7%E1%BC%AE%BD%E2%AC%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%E6%E0%E7%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%DD%F0%F8%F7%F1%E6%FB%E7%B2%F3%F1%FD%FC%E1%F7%F5%E7%FB%E6%B3%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A3%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%E6%E0%E7%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D7%FC%F7%E0%F5%FB%F3%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D7%E1%F1%E0%FB%E7%B2%F7%FE%B2%F1%FD%F6%FB%B2%F3%F1%FD%FC%E1%F7%F5%E7%FB%E6%B2%F3%B2%FE%B5%F3%F1%E6%FB%E4%FB%E6%F3%E6%B2%F3%FC%E6%F7%E0%FB%FD%E0%B0%EF%BE%B0%E5%FD%E0%F6%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%E5%FD%E0%F6%B0%A8%B0%D5%E7%FB%E6%F3%E0%E0%F3%D7%FEz%F1%E6%E0%FB%F1%F3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C7%E6%FB%FE%FB%E6%E8%F3%B2%F7%FE%F7%F1%E6%E0%FB%F1%FB%E6%F3%E6%B2%F5%F7%FC%F7%E0%F3%F6%F3%B2%F3%B2%E7%FC%F3%B2%F1%F7%FC%E6%E0%F3%FE%B2%F7%FEz%F1%E6%E0%FB%F1%F3%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%D6%F7%DE%FD%E0%F7%F3%FC%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C4%F7%FA%FB%F1%FE%F7%B2%FF%FD%F6%FB%F4%FB%F1%F3%E6%B2%E2%F7%E0%B2%E4%FB%F3%E6%F8%F3%E0%B2%F7%FC%B2%F7%FE%B2%E6%F7%FF%E2%E1%B2%FF%FB%E6%F8%F3%FCu%F3%FC%E6%B2%E7%FC%B2%F4%FE%E7%EA%B2%F6%u208B%F7%FC%F7%E0%F5%FB%F3%B2%FF%FD%FE%E6%B2%F7%FE%F7%E4%F3%E6%BC%B2%DB%FC%FB%F1%FB%F3%FE%FF%F7%FC%E6%B2%F3%FF%F0%B2%C7%E0%F3%FC%FB%B2%FB%B2%F6%F7%E1%E2%E0%7B%E1%B2%F3%FF%F0%B2%F0%FB%FD%FF%F3%E1%E1%F3%BC%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%D7%FC%F7%E0%F5%FB%F3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%CE%B0%DC%FD%B2%F7%E1%B2%F1%E0%F7%F3%B2%FC%FB%B2%F7%E1%B2%F6%F7%E1%E6%E0%E7%F7%FB%EA%BE%B2%F7%E1%B2%E6%E0%F3%FC%E1%F4%FD%E0%FF%F3%CE%B0%BC%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%D1%FD%FC%F6%F7%FC%E1%F3%F6%FD%E0%D6%F7%D4%FE%E7%EA%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B2%D6%FB%E1%E2%FD%E1%FB%E6%FB%E7%B2%F4%FB%F1%E6%FB%F1%FB%B2%E3%E7%F7%B2%E2%F7%E0%FF%F7%E6%B2%F4%F7%E0%B2%E4%FB%F3%E6%F5%F7%E1%B2%F7%FC%B2%F7%FE%B2%E6%F7%FF%E2%E1%B2%E3%E7%F3%FC%B2%E0%F7%E2%B2%E2%E0%FD%E7%B2%F7%FC%F7%E0%F5%FB%F3%BC%B2%DC%F7%F1%F7%E1%E1%FB%E6%F3%B2%E7%FC%B2%E2%FB%F1%B2%F6%u208B%F7%FE%F7%F1%E6%E0%FB%F1%FB%E6%F3%E6%B2%BA%A3%BE%A0%A3%B2%D5%C5%BB%B2%E2%F7%E0%B2%F3%F1%E6%FB%E4%F3%E0%BF%E1%F7%BC%BC%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%C6%FD%E0%E0%F7%D6%F7%FE%C0%F7%FE%FE%FD%E6%F5%F7%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C2%F3%E0%E6%B2%F6%F7%B2%FE%B5%F7%F6%FB%F4%FB%F1%FB%B2%FF%7B%E1%B2%FB%FF%E2%FD%E0%E6%F3%FC%E6%B2%F6%F7%B2%DA%FB%FE%FE%B2%C4%F3%FE%FE%F7%EB%BE%B2%E4%F3%B2%F1%F3%E7%E0%F7%B2%E7%FC%B2%FE%FE%F3%FF%E2%BC%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%DE%FE%F3%FF%E2%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D6%F7%E1%F1r%E0%E0%F7%F5%F3%B2%F7%FEz%F1%E6%E0%FB%F1%F3%B2%F3%E6%FF%FD%E1%F4z%E0%FB%F1%F3%B2%F6%u208B%F7%FC%FD%E0%FF%F7%B2%E2%FD%E6z%FC%F1%FB%F3%BC%B2%5B%E1%B2%E7%FC%F3%B2%F4%FD%FC%E6%B2%FC%F3%E6%E7%E0%F3%FE%B2%F6%u208B%F7%FC%F7%E0%F5%FB%F3%B2%F7%FEz%F1%E6%E0%FB%F1%F3%BC%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%C2%FB%FE%F7%E1%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D5%F7%FC%F7%E0%F3%F6%FD%E0%E1%B2%F6%B5%F7%FE%F7%F1%E6%E0%FB%F1%FB%E6%F3%E6%B2%E3%E7%F7%B2%E7%E6%FB%FE%FB%E6%E8%F7%FC%B2%F7%FC%F7%E0%F5%FB%F3%B2%E3%E7%7F%FF%FB%F1%F3%B2%F7%FF%FF%F3%F5%F3%E6%E8%F7%FF%F3%F6%F3%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%D1%FB%FC%E6%F3%D6%F7%D1%F3%E1%E1%F7%E6%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C1%E7%E2%FD%E0%E6%B2%F3%FC%E6%FB%F1%B2%F6%B5%F7%FF%FF%F3%F5%F3%E6%E8%F7%FC%F3%FF%F7%FC%E6%B2%F6%F7%B2%F6%F3%F6%F7%E1%B2%BAr%E7%F6%FB%FD%E1%BE%B2%FFh%E1%FB%F1%F3%BB%B2%E3%E7%F7%B2%F7%E0%F3%B2%FF%F3%F5%FCz%E6%FB%F1%B2%FB%B2%F3%FC%F3%FE%60%F5%FB%F1%B8%BC%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%C0%F3%F6%FB%FD%D1%F3%E1%E1%F7%E6%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D3%E2%F3%E0%F7%FE%FE%B2%E3%E7%F7%B2%E0%F7%E2%E0%FD%F6%E7%7D%F3%B2%FE%F3%B2%E0r%F6%FB%FD%B2%FD%B2%FE%B5r%E7%F6%FB%FD%B2%F6%F7%B2%FE%F7%E1%B2%F1%FB%FC%E6%F7%E1%B2%F6%F7%B2%F1%F3%E1%E1%F7%E6%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%C5%F3%FE%F9%FF%F3%FC%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D3%E2%F3%E0%F7%FE%FE%BE%B2%F6%F7%B2%FF%FB%F6%F3%B2%E0%F7%FE%F3%E6%FB%E4%F3%FF%F7%FC%E6%B2%E2%F7%E6%FB%E6%F3%BE%B2%E3%E7%F7%B2%E0%F7%E2%E0%FD%F6%E7%7D%F3%B2%F6%F7%B2%F1%FB%FC%E6%F7%E1%B2%F6%F7%B2%F1%F3%E1%E1%F7%E6%B2%FB%B2%E2%F7%E0%FF%F7%E6%FB%F3%B2%F1%FD%FC%FC%F7%F1%E6%F3%E0%B2%F3%E7%E0%FB%F1%E7%FE%F3%E0%E1%B2%F3%FF%F0%B2%F1%F3%F0%FE%F7%B2%E2%F7%E0%B2%E2%FD%F6%F7%E0%B2%F7%E1%F1%FD%FE%E6%F3%E0%B2%FE%F3%B2%FFh%E1%FB%F1%F3%B2%FB%B2%FF%FD%FE%E6%B2%F4r%F1%FB%FE%B2%F6%F7%B2%E6%E0%F3%FC%E1%E2%FD%E0%E6%F3%E0%BC%B2%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%D1%FD%E6%EA%F7%E1%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C4%F7%FA%FB%F1%FE%F7%E1%B2%FC%FD%E0%FF%F3%FE%E1%B2%E3%E7%F7%B2%F7%E1%B2%F6%F7%E1%E2%FE%F3%F1%F7%FC%B2%F5%E0r%F1%FB%F7%E1%B2%F3%B2%FE%F3%B2%F1%FD%FF%F0%E7%E1%E6%FBa%B2%F6%F7%B2%F5%F3%E1%FD%FE%FB%FC%F3%BC%B2%C7%E6%FB%FE%FB%E6%E8%F7%FC%B2%F7%FC%F7%E0%F5%FB%F3%B2%E3%E7%7F%FF%FB%F1%F3%B2%F6%F7%FE%B2%E2%F7%E6%E0%FD%FE%FB%BC%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%DF%FD%FC%FD%E2%F3%E6%7F%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C6%F3%E7%FE%F3%B2%F3%FF%F0%B2%E0%FD%F6%F7%E1%B2%FF%FD%F5%E7%F6%F3%B2%E2%F7%E0%B2%FE%F3%B2%F4%FD%E0u%F3%B2%F6%F7%B2%E3%E7%FB%B2%FE%F3%B2%F1%FD%FC%F6%E7%F7%FB%EA%BC%B2%D4%E7%FC%F1%FB%FD%FC%F3%B2%F3%FF%F0%B2%F7%FC%F7%E0%F5%FB%F3%B2%FF%F7%F1r%FC%FB%F1%F3%B2%F6%F7%FE%B2%FF%FD%E4%FB%FF%F7%FC%E6%B2%FA%E7%FFr%BC%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D6%F7%E1%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%F4%F3%FE%E1%F7%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A3%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%F6%FB%F3%F5%FD%FC%F3%FE%E1%B0%A8%E6%E0%E7%F7%BE%B0%E0%F7%E4%F7%E0%E1%F7%E1%B0%A8%E6%E0%E7%F7%BE%B0%E1%FA%FD%E5%C0%F7%E1%FD%FE%E4%F7%B0%A8%E6%E0%E7%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%E6%E0%E7%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%D7%FB%FC%E1%E6%F7%FB%FC%B0%BE%B0%FB%F6%B0%A8%B0%A0%A2%A0%A7%AA%A0%A1%A3%A6%A1%A5%A6%A5%BF%A3%A0%A2%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C0%F7%E2%FE%EB%B0%A8%B0%C0%F7%E1%E2%FD%FC%B0%BE%B0%FF%E1%F5%D7%FC%E6%F7%E0%D1%FD%F6%F7%B0%A8%B0%D7%FC%E6%E0%F3%B2%F7%FE%B2%F1%FD%F6%FB%B2%F6%B5%F3%F1%F1%7B%E1%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%D1%FD%F6%F7%B0%A8%B0%D7%FE%B2%F1%FD%F6%FB%B2%F6%B5%F3%F1%F1%7B%E1%B2%FC%FD%B2%7B%E1%B2%F1%FD%E0%E0%F7%F1%E6%F7%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B0%D5%F7%FC%FB%F3%FE%BC%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%7B%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1%FD%F6%FB%B2%F6%B5%F3%F1%F1%7B%E1%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E0%F7%FF%B2%F3%E3%E7%7F%B2%E2%F7%E0%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D7%FC%F1%F7%E0%E6%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E6%E8%F3%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E6%E8%F3%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%C6%F7%FF%E2%E1%B2%FE%7F%FF%FB%E6%B2%BA%FF%FF%A8%E1%E1%BB%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%E7%E0%E6%B2%F6%F7%B2%FE%F3%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DC%FD%FF%F0%E0%F7%B2%F6%F7%B2%E3n%F7%E1%E6%FB%FD%FC%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C3n%F7%E1%E6%FBa%B2%E1%F7%FC%E1%F7%B2%FB%FF%F3%E6%F5%F7%E1%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B0%D0%7B%B3%B2%EE%B2%DF%FD%FE%E6%B2%F0%7B%B3%B2%EE%B2%D5%F7%FC%FB%F3%FE%B3%B2%EE%B2%D7%EA%F1%F7%FE%B2%25%B2%FE%F7%FC%E6%B3%B2%EE%B2%C2%F7%E0%F4%F7%F1%E6%F7%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B0%DC%FD%B2%F7%E0%F3%B2%F3%FB%EA%7F%B3%B2%EE%B2%DB%FC%F1%FD%E0%E0%F7%F1%E6%F7%B3%B2%EE%B2%DC%FD%B2%F1%FD%E0%E0%F7%F1%E6%F7%B3%B2%EE%B2%DA%FD%B2%E1%F7%FC%E6%FD%B3%B2%EE%B2%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%D1%F3%FE%B2%F3%FE%FF%F7%FC%EB%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%FD%E1%E6%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%F7%E1%B2%E2%F7%E0%B2%FD%F0%E6%F7%FC%FB%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%BC%B2%C6%FD%E0%FC%F3%BF%FA%FD%B2%F3%B2%E2%E0%FD%E4%F3%E0%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%B2%FC%FD%B2%F7%E1%B2%E2%FD%E6%B2%F6%F7%E1%F3%E0%B2%F8%F3%B2%E3%E7%F7%B2%F3%E3%E7%F7%E1%E6%F3%B2%E2r%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B0%C1%FD%FE%E1%B2%E2%FD%F6%F7%E7%B2%F6%F7%E1%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%B2%E7%FC%F3%B2%E4%F7%F5%F3%F6%F3%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%E1%B2%FE%F3%B2%E2%FD%F6%F7%E7%B2%F6%F7%E1%F3%E0%B2%E7%FC%F3%B2%E4%F7%F5%F3%F6%F3%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%B2%F7%E1%B2%F6%F7%E1%F3%E0r%B2%F6%F7%E1%E2%E0%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%DC%FD%FF%7B%E1%B2%E2%FD%F6%F7%E7%B2%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%F5%F3%F6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%B2%F7%E1%B2%F6%F7%E1%F3%E0r%B2%F6%F7%E1%E2%E0%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%B2%F6%F7%B2%F4%FD%E0%FF%F3%B2%F3%E7%E6%FD%FFr%E6%FB%F1%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%FD%F6%F7%E7%B2%F6%F7%E1%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%B2%E6%F3%FC%E6%F7%E1%B2%E4%F7%F5%F3%F6%F7%E1%B2%F1%FD%FF%B2%E4%E7%FE%F5%E7%F7%E7%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2%F6%F3%E0%E0%F7%E0%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%B2%F6%F7%E1%F3%F6%F3%B2%7B%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%D8%F3%B2%FA%F7%E7%B2%F4%F7%E6%B2%F3%E3%E7%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%E6%F3%E6%BC%B2%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%FD%F6%F7%E7%B2%F4%F7%E0%B2%F3%E3%E7%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%E6%F3%E6%B2%E6%F3%FC%E6%F7%E1%B2%E4%F7%F5%F3%F6%F7%E1%B2%F1%FD%FF%B2%E4%E7%FE%F5%E7%F7%E7%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%C6%F3%FC%F1%F3%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%E1%B0%A8%B0%E2%E7%FC%E6%E1%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0R%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%C5%FD%E0%F6%E1%D4%FB%FC%F6%B0%A8%B0%DA%F7%E7%B2%E6%E0%FD%F0%F3%E6%B2%E6%FD%E6%E1%B2%F7%FE%E1%B2%FF%FD%E6%E1%BC%B2%DE%F3%B2%E4%FD%E1%E6%E0%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%B2%7B%E1%B2%B7%E1%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%DB%FC%FB%F1%FB%F3%B2%F7%FE%B2%F8%FD%F1%BC%BC%BC%B0%BE%B0%FF%F5%E1%D5%F3%FF%F7%C1%E6%F3%E0%E6%B0%A8%B0%D7%FE%B2%F8%FD%F1%B2%FA%F3%B2%F1%FD%FF%F7%FCu%F3%E6%BC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%B0%BE%B0%FF%E1%F5%D7%FC%F6%C6%FB%FF%F7%B0%A8%B0%D7%FE%B2%E6%F7%FF%E2%E1%B2%FA%F3%B2%F3%F1%F3%F0%F3%E6%BC%B2%DE%F3%B2%E4%FD%E1%E6%E0%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%B2%7B%E1%B2%B2%B7%E1%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%B0%A8%B0%D3%F1%F3%F0%F3%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%DF%B0%A8%B0%DA%F7%E7%B2%F4%FB%FC%F3%FE%FB%E6%E8%F3%E6%B2%F7%FE%B2%F8%FD%F1%BC%B2%DE%F3%B2%E4%FD%E1%E6%E0%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%B2%7B%E1%B2%B7%E1%BC%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%E6%F3%E6%B2%FB%FC%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%E6%F3%E6%BC%B2%C1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%E6%F3%E6%A8%B2%DC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C1%FD%E2%F3%B2%F6%F7%B2%FE%FE%F7%E6%E0%F7%E1%B0%EF%EF&lt;/div&gt;&lt;a href=&quot;&quot; class=&quot;js-hidden sopa-LinkImages&quot;&gt;0&lt;/a&gt;&lt;a href=&quot;&quot; class=&quot;js-hidden sopa-LinkImages&quot;&gt;1&lt;/a&gt;&lt;a href=&quot;&quot; class=&quot;js-hidden sopa-LinkImages&quot;&gt;2&lt;/a&gt;&lt;a href=&quot;&quot; class=&quot;js-hidden sopa-LinkImages&quot;&gt;3&lt;/a&gt;&lt;a href=&quot;&quot; class=&quot;js-hidden sopa-LinkImages&quot;&gt;4&lt;/a&gt;&lt;a href=&quot;&quot; class=&quot;js-hidden sopa-LinkImages&quot;&gt;5&lt;/a&gt;&lt;a href=&quot;&quot; class=&quot;js-hidden sopa-LinkImages&quot;&gt;6&lt;/a&gt;&lt;a href=&quot;&quot; class=&quot;js-hidden sopa-LinkImages&quot;&gt;7&lt;/a&gt;&lt;a href=&quot;&quot; class=&quot;js-hidden sopa-LinkImages&quot;&gt;8&lt;/a&gt;&lt;a href=&quot;&quot; class=&quot;js-hidden sopa-LinkImages&quot;&gt;9&lt;/a&gt;&lt;a href=&quot;&quot; class=&quot;js-hidden sopa-LinkImages&quot;&gt;10&lt;/a&gt;&lt;a href=&quot;&quot; class=&quot;js-hidden sopa-LinkImages&quot;&gt;11&lt;/a&gt;&lt;div class=&quot;sopa-bns js-hidden&quot;&gt;El vostre navegador no és compatible amb aquesta eina.&lt;/div&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
               <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -2124,7 +2174,7 @@
                 <string role="key" value=".listitems"></string>
                 <list></list>
                 <string role="key" value="idevice"></string>
-                <reference key="38"></reference>
+                <reference key="39"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
@@ -2160,7 +2210,7 @@
            <int value="0"></int>
           </dictionary>
          </instance>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="39">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="40">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Música I - BSO Instrumental "></unicode>
@@ -2221,12 +2271,12 @@
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="40">
+            <instance class="exe.engine.field.TextAreaField" reference="41">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="147_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="39"></reference>
+              <reference key="40"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -2277,10 +2327,10 @@
                    <string role="key" value="_id"></string>
                    <unicode value="39_147_2.12"></unicode>
                    <string role="key" value="_imageResource"></string>
-                   <instance class="exe.engine.resource.Resource" reference="41">
+                   <instance class="exe.engine.resource.Resource" reference="42">
                     <dictionary>
                      <string role="key" value="_idevice"></string>
-                     <reference key="39"></reference>
+                     <reference key="40"></reference>
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
@@ -2298,7 +2348,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_parent"></string>
-                   <reference key="40"></reference>
+                   <reference key="41"></reference>
                    <string role="key" value="_thumbnailResource"></string>
                    <none></none>
                    <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -2329,10 +2379,10 @@
                    <string role="key" value="_id"></string>
                    <unicode value="39_147_2.13"></unicode>
                    <string role="key" value="_imageResource"></string>
-                   <instance class="exe.engine.resource.Resource" reference="42">
+                   <instance class="exe.engine.resource.Resource" reference="43">
                     <dictionary>
                      <string role="key" value="_idevice"></string>
-                     <reference key="39"></reference>
+                     <reference key="40"></reference>
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
@@ -2350,7 +2400,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_parent"></string>
-                   <reference key="40"></reference>
+                   <reference key="41"></reference>
                    <string role="key" value="_thumbnailResource"></string>
                    <none></none>
                    <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -2361,7 +2411,7 @@
                  </instance>
                 </list>
                 <string role="key" value="idevice"></string>
-                <reference key="40"></reference>
+                <reference key="41"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
@@ -2393,14 +2443,14 @@
            <bool value="1"></bool>
            <string role="key" value="userResources"></string>
            <list>
-            <reference key="41"></reference>
             <reference key="42"></reference>
+            <reference key="43"></reference>
            </list>
            <string role="key" value="version"></string>
            <int value="0"></int>
           </dictionary>
          </instance>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="43">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="44">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="iDeviceTexto Prueba -Música II - Johnny B Goode (1955) de Chuck Berry "></unicode>
@@ -2461,12 +2511,12 @@
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="44">
+            <instance class="exe.engine.field.TextAreaField" reference="45">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="148_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="43"></reference>
+              <reference key="44"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -2520,10 +2570,10 @@
                    <string role="key" value="_id"></string>
                    <unicode value="40_148_2.6"></unicode>
                    <string role="key" value="_imageResource"></string>
-                   <instance class="exe.engine.resource.Resource" reference="45">
+                   <instance class="exe.engine.resource.Resource" reference="46">
                     <dictionary>
                      <string role="key" value="_idevice"></string>
-                     <reference key="43"></reference>
+                     <reference key="44"></reference>
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
@@ -2541,7 +2591,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_parent"></string>
-                   <reference key="44"></reference>
+                   <reference key="45"></reference>
                    <string role="key" value="_thumbnailResource"></string>
                    <none></none>
                    <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -2552,7 +2602,7 @@
                  </instance>
                 </list>
                 <string role="key" value="idevice"></string>
-                <reference key="44"></reference>
+                <reference key="45"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
@@ -2584,13 +2634,13 @@
            <bool value="1"></bool>
            <string role="key" value="userResources"></string>
            <list>
-            <reference key="45"></reference>
+            <reference key="46"></reference>
            </list>
            <string role="key" value="version"></string>
            <int value="0"></int>
           </dictionary>
          </instance>
-         <instance class="exe.engine.reflectionidevice.ReflectionIdevice" reference="46">
+         <instance class="exe.engine.reflectionidevice.ReflectionIdevice" reference="47">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="iDevice Reflexión · Més enllà de la pel·li: cinema, valors i reflexions"></unicode>
@@ -2615,12 +2665,12 @@ effective feedback tools."></unicode>
            <string role="key" value="_typeName"></string>
            <unicode value="Reflection"></unicode>
            <string role="key" value="activityTextArea"></string>
-           <instance class="exe.engine.field.TextAreaField" reference="47">
+           <instance class="exe.engine.field.TextAreaField" reference="48">
             <dictionary>
              <string role="key" value="_id"></string>
              <int value="104"></int>
              <string role="key" value="_idevice"></string>
-             <reference key="46"></reference>
+             <reference key="47"></reference>
              <string role="key" value="_instruc"></string>
              <unicode value="Enter a question for learners 
 to reflect upon."></unicode>
@@ -2631,28 +2681,43 @@ to reflect upon."></unicode>
              <string role="key" value="anchors_linked_from_fields"></string>
              <dictionary></dictionary>
              <string role="key" value="content_w_resourcePaths"></string>
-             <unicode content="true" value="&lt;p&gt;&lt;strong&gt;1. Xenofòbia i racisme&lt;/strong&gt;&lt;br /&gt;Mira la pel·lícula i respon:&lt;/p&gt;
+             <unicode content="true" value="&lt;p&gt;Com ja us he comentat, el fil conductor d'aquest curs serà &lt;strong&gt;&lt;em&gt;Back to the future&lt;/em&gt;&lt;/strong&gt;. &lt;br /&gt;És per això que és molt important que, per una banda, observem els personatges principals i tota la tecnologia que envolta aquest film com, també, aprofitar per aprofundir en un rerefons ple de missatges (de diversos tipus).&lt;br /&gt;Us convido a observar, analitzar i reflexionar al respecte.&lt;/p&gt;
+&lt;p&gt;Us facilito aquesta llista de coses que haureu d'observar amb deteniment.&lt;br /&gt;&lt;em&gt;Si teniu bona memòria no cal que us apunteu a un full, però pot ajudar-vos a fer l'anàlisi.&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Has detectat algun comentari o situació racista?   ☐ Sí ☐ No&lt;/li&gt;
+&lt;li&gt;Com es diuen els personatges protagonistes i com són físicament?&lt;/li&gt;
+&lt;li&gt;Rols d'aquests personatges (psicològicament: caràcter, com es mostren, què fan, com actuen amb la gent)?&lt;/li&gt;
+&lt;li&gt;Quins objectes tecnològic trobes? &lt;em&gt;Recorda 2 que necessitin corrent elèctrica i 2 no necessiten corrent per funcionar.&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;1. Xenofòbia i racisme&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Identifiques alguna/es situacions on es tracta de la xenofòbia o racisme?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;         [ Si no tens clar els diferents conceptes '&lt;strong&gt;&lt;a href=&quot;https://www.es.amnesty.org/en-que-estamos/blog/historia/articulo/que-es-el-racismo-tipos-y-significados/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;racisme&lt;/a&gt;' i '&lt;a href=&quot;https://www.amnesty.org/es/what-we-do/discrimination/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;xenofòbia&lt;/a&gt;' e&lt;/strong&gt;t convido investigar als enllaços ] &lt;br /&gt;     &lt;em&gt;    (font: Amnistia Internacional)&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
 &lt;li&gt;En cas que sí, reflexiona sobre quin és i quins personatges hi intervenen.&lt;br /&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;2. Rol de les dones i masclisme&lt;/strong&gt;&lt;br /&gt;Observa com es representen els personatges femenins:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Rol de les dones a la pel·lícula&lt;/strong&gt;&lt;br /&gt;Observa com es representen els personatges femenins:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Quin paper té Lorraine (mare del Marty) a la pel·lícula?&lt;/li&gt;
 &lt;li&gt;I la Jennifer Parker (companya del Marty)?&lt;/li&gt;
-&lt;li&gt;Has vist algun comentari o situació masclista o micromasclista? Escriu alguns exemples.&lt;/li&gt;
+&lt;li&gt;Has observat algun comentari o situació masclista o micromasclista? Quines?&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;3. Assetjament (Bullying) i violència&lt;/strong&gt;&lt;br /&gt;Identifica situacions d’assetjament que apareixen a la pel·lícula:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. Assetjament (Bullying) i violència&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Identifiques situacions d'assetjament (bullying-acoso) ? Quan?&lt;/p&gt;
+&lt;p&gt;En cas que sí:&lt;br /&gt;Situacions d’assetjament que apareixen a la pel·lícula:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Personatges implicats: _______________________________&lt;/li&gt;
+&lt;li&gt;Personatges : _______________________________&lt;/li&gt;
 &lt;li&gt;Què passa? ________________________________________&lt;/li&gt;
 &lt;li&gt;Com ho solucionaries? _______________________________&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;4. Reflexió personal&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Què creus que ens vol transmetre la pel·lícula sobre el valor de defensar-se, creure en un mateix i superar la por?&lt;/li&gt;
-&lt;li&gt;Què podem aprendre d’aquest film per millorar la convivència avui dia?&lt;/li&gt;
-&lt;/ul&gt;"></unicode>
+&lt;li&gt;Què creus que ens vol transmetre la pel·lícula?&lt;/li&gt;
+&lt;li&gt;Què podem aprendre d’aquest film per millorar la convivència avui en dia?&lt;/li&gt;
+&lt;li&gt;A nivell científic i tecnològic, què has après?&lt;/li&gt;
+&lt;li&gt;Quines són les coses que més t'han agradat?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Moltes gràcies per participar! :D&lt;/strong&gt;&lt;/p&gt;"></unicode>
              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
              <int value="4"></int>
              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -2667,7 +2732,7 @@ to reflect upon."></unicode>
                <string role="key" value=".listitems"></string>
                <list></list>
                <string role="key" value="idevice"></string>
-               <reference key="47"></reference>
+               <reference key="48"></reference>
               </dictionary>
              </instance>
              <string role="key" value="intlinks_to_anchors"></string>
@@ -2679,12 +2744,12 @@ to reflect upon."></unicode>
             </dictionary>
            </instance>
            <string role="key" value="answerTextArea"></string>
-           <instance class="exe.engine.field.Feedback2Field" reference="48">
+           <instance class="exe.engine.field.Feedback2Field" reference="49">
             <dictionary>
              <string role="key" value="_id"></string>
              <int value="105"></int>
              <string role="key" value="_idevice"></string>
-             <reference key="46"></reference>
+             <reference key="47"></reference>
              <string role="key" value="_instruc"></string>
              <unicode value="Describe how learners will assess how 
 they have done in the exercise (rubrics are useful devices for providing 
@@ -2713,7 +2778,7 @@ reflective feedback)."></unicode>
                <string role="key" value=".listitems"></string>
                <list></list>
                <string role="key" value="idevice"></string>
-               <reference key="48"></reference>
+               <reference key="49"></reference>
               </dictionary>
              </instance>
              <string role="key" value="intlinks_to_anchors"></string>
@@ -2773,13 +2838,13 @@ reflective feedback)."></unicode>
         <list></list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="51">
+      <instance class="exe.engine.node.Node" reference="52">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="1. 🪜🪚 El procés tecnològic "></unicode>
         <string role="key" value="idevices"></string>
         <list>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="49">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="50">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="L'Einstein ens guia! 🦮"></unicode>
@@ -2840,12 +2905,12 @@ reflective feedback)."></unicode>
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="50">
+            <instance class="exe.engine.field.TextAreaField" reference="51">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="128_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="49"></reference>
+              <reference key="50"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -2908,10 +2973,10 @@ reflective feedback)."></unicode>
                    <string role="key" value="_id"></string>
                    <unicode value="1_128_2.23"></unicode>
                    <string role="key" value="_imageResource"></string>
-                   <instance class="exe.engine.resource.Resource" reference="52">
+                   <instance class="exe.engine.resource.Resource" reference="53">
                     <dictionary>
                      <string role="key" value="_idevice"></string>
-                     <reference key="49"></reference>
+                     <reference key="50"></reference>
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
@@ -2929,7 +2994,7 @@ reflective feedback)."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_parent"></string>
-                   <reference key="50"></reference>
+                   <reference key="51"></reference>
                    <string role="key" value="_thumbnailResource"></string>
                    <none></none>
                    <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -2960,10 +3025,10 @@ reflective feedback)."></unicode>
                    <string role="key" value="_id"></string>
                    <unicode value="1_128_2.24"></unicode>
                    <string role="key" value="_imageResource"></string>
-                   <instance class="exe.engine.resource.Resource" reference="53">
+                   <instance class="exe.engine.resource.Resource" reference="54">
                     <dictionary>
                      <string role="key" value="_idevice"></string>
-                     <reference key="49"></reference>
+                     <reference key="50"></reference>
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
@@ -2981,7 +3046,7 @@ reflective feedback)."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_parent"></string>
-                   <reference key="50"></reference>
+                   <reference key="51"></reference>
                    <string role="key" value="_thumbnailResource"></string>
                    <none></none>
                    <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -3012,10 +3077,10 @@ reflective feedback)."></unicode>
                    <string role="key" value="_id"></string>
                    <unicode value="1_128_2.26"></unicode>
                    <string role="key" value="_imageResource"></string>
-                   <instance class="exe.engine.resource.Resource" reference="54">
+                   <instance class="exe.engine.resource.Resource" reference="55">
                     <dictionary>
                      <string role="key" value="_idevice"></string>
-                     <reference key="49"></reference>
+                     <reference key="50"></reference>
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
@@ -3033,7 +3098,7 @@ reflective feedback)."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_parent"></string>
-                   <reference key="50"></reference>
+                   <reference key="51"></reference>
                    <string role="key" value="_thumbnailResource"></string>
                    <none></none>
                    <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -3064,10 +3129,10 @@ reflective feedback)."></unicode>
                    <string role="key" value="_id"></string>
                    <unicode value="1_128_2.27"></unicode>
                    <string role="key" value="_imageResource"></string>
-                   <instance class="exe.engine.resource.Resource" reference="55">
+                   <instance class="exe.engine.resource.Resource" reference="56">
                     <dictionary>
                      <string role="key" value="_idevice"></string>
-                     <reference key="49"></reference>
+                     <reference key="50"></reference>
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
@@ -3085,7 +3150,7 @@ reflective feedback)."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_parent"></string>
-                   <reference key="50"></reference>
+                   <reference key="51"></reference>
                    <string role="key" value="_thumbnailResource"></string>
                    <none></none>
                    <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -3116,10 +3181,10 @@ reflective feedback)."></unicode>
                    <string role="key" value="_id"></string>
                    <unicode value="1_128_2.28"></unicode>
                    <string role="key" value="_imageResource"></string>
-                   <instance class="exe.engine.resource.Resource" reference="56">
+                   <instance class="exe.engine.resource.Resource" reference="57">
                     <dictionary>
                      <string role="key" value="_idevice"></string>
-                     <reference key="49"></reference>
+                     <reference key="50"></reference>
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
@@ -3137,7 +3202,7 @@ reflective feedback)."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_parent"></string>
-                   <reference key="50"></reference>
+                   <reference key="51"></reference>
                    <string role="key" value="_thumbnailResource"></string>
                    <none></none>
                    <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -3148,7 +3213,7 @@ reflective feedback)."></unicode>
                  </instance>
                 </list>
                 <string role="key" value="idevice"></string>
-                <reference key="50"></reference>
+                <reference key="51"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
@@ -3156,7 +3221,7 @@ reflective feedback)."></unicode>
               <string role="key" value="nextImageId"></string>
               <int value="29"></int>
               <string role="key" value="parentNode"></string>
-              <reference key="51"></reference>
+              <reference key="52"></reference>
              </dictionary>
             </instance>
            </list>
@@ -3173,24 +3238,24 @@ reflective feedback)."></unicode>
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="51"></reference>
+           <reference key="52"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
            <bool value="1"></bool>
            <string role="key" value="userResources"></string>
            <list>
-            <reference key="52"></reference>
             <reference key="53"></reference>
             <reference key="54"></reference>
             <reference key="55"></reference>
             <reference key="56"></reference>
+            <reference key="57"></reference>
            </list>
            <string role="key" value="version"></string>
            <int value="0"></int>
           </dictionary>
          </instance>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="57">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="58">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value=" [Apunts]🦮 El procés tecnològic"></unicode>
@@ -3251,12 +3316,12 @@ reflective feedback)."></unicode>
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="58">
+            <instance class="exe.engine.field.TextAreaField" reference="59">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="142_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="57"></reference>
+              <reference key="58"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -3304,10 +3369,10 @@ reflective feedback)."></unicode>
                    <string role="key" value="_id"></string>
                    <unicode value="17_142_2.6"></unicode>
                    <string role="key" value="_imageResource"></string>
-                   <instance class="exe.engine.resource.Resource" reference="59">
+                   <instance class="exe.engine.resource.Resource" reference="60">
                     <dictionary>
                      <string role="key" value="_idevice"></string>
-                     <reference key="57"></reference>
+                     <reference key="58"></reference>
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
@@ -3325,7 +3390,7 @@ reflective feedback)."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_parent"></string>
-                   <reference key="58"></reference>
+                   <reference key="59"></reference>
                    <string role="key" value="_thumbnailResource"></string>
                    <none></none>
                    <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -3336,7 +3401,7 @@ reflective feedback)."></unicode>
                  </instance>
                 </list>
                 <string role="key" value="idevice"></string>
-                <reference key="58"></reference>
+                <reference key="59"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
@@ -3344,7 +3409,7 @@ reflective feedback)."></unicode>
               <string role="key" value="nextImageId"></string>
               <int value="7"></int>
               <string role="key" value="parentNode"></string>
-              <reference key="51"></reference>
+              <reference key="52"></reference>
              </dictionary>
             </instance>
            </list>
@@ -3361,14 +3426,14 @@ reflective feedback)."></unicode>
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="51"></reference>
+           <reference key="52"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
            <bool value="1"></bool>
            <string role="key" value="userResources"></string>
            <list>
-            <reference key="59"></reference>
+            <reference key="60"></reference>
            </list>
            <string role="key" value="version"></string>
            <int value="0"></int>
@@ -3393,13 +3458,13 @@ reflective feedback)."></unicode>
         <list></list>
         <string role="key" value="children"></string>
         <list>
-         <instance class="exe.engine.node.Node" reference="62">
+         <instance class="exe.engine.node.Node" reference="63">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Missió 1"></unicode>
            <string role="key" value="idevices"></string>
            <list>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="60">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="61">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="· 📖 Diari de Tecnologia 📝"></unicode>
@@ -3460,12 +3525,12 @@ reflective feedback)."></unicode>
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="61">
+               <instance class="exe.engine.field.TextAreaField" reference="62">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="138_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="60"></reference>
+                 <reference key="61"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -3513,10 +3578,10 @@ reflective feedback)."></unicode>
                       <string role="key" value="_id"></string>
                       <unicode value="69_138_2.0"></unicode>
                       <string role="key" value="_imageResource"></string>
-                      <instance class="exe.engine.resource.Resource" reference="63">
+                      <instance class="exe.engine.resource.Resource" reference="64">
                        <dictionary>
                         <string role="key" value="_idevice"></string>
-                        <reference key="60"></reference>
+                        <reference key="61"></reference>
                         <string role="key" value="_package"></string>
                         <reference key="2"></reference>
                         <string role="key" value="_storageName"></string>
@@ -3534,7 +3599,7 @@ reflective feedback)."></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_parent"></string>
-                      <reference key="61"></reference>
+                      <reference key="62"></reference>
                       <string role="key" value="_thumbnailResource"></string>
                       <none></none>
                       <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -3545,7 +3610,7 @@ reflective feedback)."></unicode>
                     </instance>
                    </list>
                    <string role="key" value="idevice"></string>
-                   <reference key="61"></reference>
+                   <reference key="62"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -3553,7 +3618,7 @@ reflective feedback)."></unicode>
                  <string role="key" value="nextImageId"></string>
                  <int value="1"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="62"></reference>
+                 <reference key="63"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -3570,14 +3635,14 @@ reflective feedback)."></unicode>
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="62"></reference>
+              <reference key="63"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
               <bool value="1"></bool>
               <string role="key" value="userResources"></string>
               <list>
-               <reference key="63"></reference>
+               <reference key="64"></reference>
               </list>
               <string role="key" value="version"></string>
               <int value="0"></int>
@@ -3597,7 +3662,7 @@ reflective feedback)."></unicode>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:TECNOLOGIA%202n%20ESO%20%C2%B7%20INS%20La%20Ferreria:1.%20%F0%9F%AA%9C%F0%9F%AA%9A%20El%20proc%C3%A9s%20tecnol%C3%B2gic%20:Missi%C3%B3%201"></string>
            <string role="key" value="parent"></string>
-           <reference key="51"></reference>
+           <reference key="52"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
            <list></list>
            <string role="key" value="children"></string>
@@ -3607,7 +3672,7 @@ reflective feedback)."></unicode>
         </list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="64">
+      <instance class="exe.engine.node.Node" reference="65">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="2. ⛈️ Transformem l’energia amb Ben Franklin ⚡🗝️🔋"></unicode>
@@ -3631,7 +3696,7 @@ reflective feedback)."></unicode>
         <list></list>
         <string role="key" value="children"></string>
         <list>
-         <instance class="exe.engine.node.Node" reference="72">
+         <instance class="exe.engine.node.Node" reference="73">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Missió 2"></unicode>
@@ -3650,7 +3715,7 @@ reflective feedback)."></unicode>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:TECNOLOGIA%202n%20ESO%20%C2%B7%20INS%20La%20Ferreria:2.%20%E2%9B%88%EF%B8%8F%20Transformem%20l%E2%80%99energia%20amb%20Ben%20Franklin%20%E2%9A%A1%F0%9F%97%9D%EF%B8%8F%F0%9F%94%8B:Missi%C3%B3%202"></string>
            <string role="key" value="parent"></string>
-           <reference key="64"></reference>
+           <reference key="65"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
            <list></list>
            <string role="key" value="children"></string>
@@ -3660,7 +3725,7 @@ reflective feedback)."></unicode>
         </list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="65">
+      <instance class="exe.engine.node.Node" reference="66">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="3. 📦 Productes i processos tecnològics al Twin Pines 🚛 🏭"></unicode>
@@ -3684,7 +3749,7 @@ reflective feedback)."></unicode>
         <list></list>
         <string role="key" value="children"></string>
         <list>
-         <instance class="exe.engine.node.Node" reference="77">
+         <instance class="exe.engine.node.Node" reference="78">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Missió 3 "></unicode>
@@ -3703,7 +3768,7 @@ reflective feedback)."></unicode>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:TECNOLOGIA%202n%20ESO%20%C2%B7%20INS%20La%20Ferreria:3.%20%F0%9F%93%A6%20Productes%20i%20processos%20tecnol%C3%B2gics%20al%20Twin%20Pines%20%F0%9F%9A%9B%20%F0%9F%8F%AD:Missi%C3%B3%203%20"></string>
            <string role="key" value="parent"></string>
-           <reference key="65"></reference>
+           <reference key="66"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
            <list></list>
            <string role="key" value="children"></string>
@@ -3713,7 +3778,7 @@ reflective feedback)."></unicode>
         </list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="66">
+      <instance class="exe.engine.node.Node" reference="67">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="4. 💡 🪛 Salvem al Marty McFly! 🔌"></unicode>
@@ -3737,7 +3802,7 @@ reflective feedback)."></unicode>
         <list></list>
         <string role="key" value="children"></string>
         <list>
-         <instance class="exe.engine.node.Node" reference="73">
+         <instance class="exe.engine.node.Node" reference="74">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Missió 4 "></unicode>
@@ -3756,7 +3821,7 @@ reflective feedback)."></unicode>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:TECNOLOGIA%202n%20ESO%20%C2%B7%20INS%20La%20Ferreria:4.%20%F0%9F%92%A1%20%F0%9F%AA%9B%20Salvem%20al%20Marty%20McFly%21%20%F0%9F%94%8C:Missi%C3%B3%204%20"></string>
            <string role="key" value="parent"></string>
-           <reference key="66"></reference>
+           <reference key="67"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
            <list></list>
            <string role="key" value="children"></string>
@@ -3766,7 +3831,7 @@ reflective feedback)."></unicode>
         </list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="67">
+      <instance class="exe.engine.node.Node" reference="68">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="5. 💾 Programem videojocs amb el Marty i la Jennifer 🖥️🕹️"></unicode>
@@ -3790,7 +3855,7 @@ reflective feedback)."></unicode>
         <list></list>
         <string role="key" value="children"></string>
         <list>
-         <instance class="exe.engine.node.Node" reference="74">
+         <instance class="exe.engine.node.Node" reference="75">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Missió 5"></unicode>
@@ -3809,7 +3874,7 @@ reflective feedback)."></unicode>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:TECNOLOGIA%202n%20ESO%20%C2%B7%20INS%20La%20Ferreria:5.%20%F0%9F%92%BE%20Programem%20videojocs%20amb%20el%20Marty%20i%20la%20Jennifer%20%F0%9F%96%A5%EF%B8%8F%F0%9F%95%B9%EF%B8%8F:Missi%C3%B3%205"></string>
            <string role="key" value="parent"></string>
-           <reference key="67"></reference>
+           <reference key="68"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
            <list></list>
            <string role="key" value="children"></string>
@@ -3819,7 +3884,7 @@ reflective feedback)."></unicode>
         </list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="68">
+      <instance class="exe.engine.node.Node" reference="69">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="6. 🏡 Dissenyadors a Hill Valley 🪑"></unicode>
@@ -3843,7 +3908,7 @@ reflective feedback)."></unicode>
         <list></list>
         <string role="key" value="children"></string>
         <list>
-         <instance class="exe.engine.node.Node" reference="75">
+         <instance class="exe.engine.node.Node" reference="76">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Missió 6"></unicode>
@@ -3862,7 +3927,7 @@ reflective feedback)."></unicode>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:TECNOLOGIA%202n%20ESO%20%C2%B7%20INS%20La%20Ferreria:6.%20%F0%9F%8F%A1%20Dissenyadors%20a%20Hill%20Valley%20%F0%9F%AA%91:Missi%C3%B3%206"></string>
            <string role="key" value="parent"></string>
-           <reference key="68"></reference>
+           <reference key="69"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
            <list></list>
            <string role="key" value="children"></string>
@@ -3872,7 +3937,7 @@ reflective feedback)."></unicode>
         </list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="76">
+      <instance class="exe.engine.node.Node" reference="77">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="7. 🔦 ⏱️ Missió Final"></unicode>
@@ -3898,13 +3963,13 @@ reflective feedback)."></unicode>
         <list></list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="71">
+      <instance class="exe.engine.node.Node" reference="72">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="Crèdits i informació"></unicode>
         <string role="key" value="idevices"></string>
         <list>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="69">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="70">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value=""></unicode>
@@ -3965,12 +4030,12 @@ reflective feedback)."></unicode>
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="70">
+            <instance class="exe.engine.field.TextAreaField" reference="71">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="158_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="69"></reference>
+              <reference key="70"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -4000,7 +4065,7 @@ reflective feedback)."></unicode>
                 <string role="key" value=".listitems"></string>
                 <list></list>
                 <string role="key" value="idevice"></string>
-                <reference key="70"></reference>
+                <reference key="71"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
@@ -4008,7 +4073,7 @@ reflective feedback)."></unicode>
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <reference key="71"></reference>
+              <reference key="72"></reference>
              </dictionary>
             </instance>
            </list>
@@ -4025,7 +4090,7 @@ reflective feedback)."></unicode>
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="71"></reference>
+           <reference key="72"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
@@ -4061,35 +4126,35 @@ reflective feedback)."></unicode>
     </dictionary>
    </instance>
    <unicode role="key" value="1"></unicode>
-   <reference key="51"></reference>
+   <reference key="52"></reference>
    <unicode role="key" value="10"></unicode>
-   <reference key="72"></reference>
-   <unicode role="key" value="11"></unicode>
-   <reference key="62"></reference>
-   <unicode role="key" value="12"></unicode>
    <reference key="73"></reference>
-   <unicode role="key" value="13"></unicode>
+   <unicode role="key" value="11"></unicode>
+   <reference key="63"></reference>
+   <unicode role="key" value="12"></unicode>
    <reference key="74"></reference>
-   <unicode role="key" value="14"></unicode>
+   <unicode role="key" value="13"></unicode>
    <reference key="75"></reference>
-   <unicode role="key" value="17"></unicode>
+   <unicode role="key" value="14"></unicode>
    <reference key="76"></reference>
-   <unicode role="key" value="2"></unicode>
-   <reference key="64"></reference>
-   <unicode role="key" value="3"></unicode>
-   <reference key="66"></reference>
-   <unicode role="key" value="4"></unicode>
-   <reference key="67"></reference>
-   <unicode role="key" value="5"></unicode>
-   <reference key="65"></reference>
-   <unicode role="key" value="6"></unicode>
-   <reference key="68"></reference>
-   <unicode role="key" value="7"></unicode>
+   <unicode role="key" value="17"></unicode>
    <reference key="77"></reference>
+   <unicode role="key" value="2"></unicode>
+   <reference key="65"></reference>
+   <unicode role="key" value="3"></unicode>
+   <reference key="67"></reference>
+   <unicode role="key" value="4"></unicode>
+   <reference key="68"></reference>
+   <unicode role="key" value="5"></unicode>
+   <reference key="66"></reference>
+   <unicode role="key" value="6"></unicode>
+   <reference key="69"></reference>
+   <unicode role="key" value="7"></unicode>
+   <reference key="78"></reference>
    <unicode role="key" value="8"></unicode>
    <reference key="13"></reference>
    <unicode role="key" value="9"></unicode>
-   <reference key="71"></reference>
+   <reference key="72"></reference>
   </dictionary>
   <string role="key" value="_objectives"></string>
   <unicode value=""></unicode>
@@ -4100,7 +4165,7 @@ reflective feedback)."></unicode>
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="4"></reference>
+  <reference key="13"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -5344,83 +5409,87 @@ reflective feedback)."></unicode>
   <dictionary>
    <string role="key" value="006225c4e585f71e756aeb5b7c823a88"></string>
    <list>
-    <reference key="53"></reference>
+    <reference key="54"></reference>
    </list>
    <string role="key" value="0185fdd9b210ff2073bcd99b5d2e9311"></string>
    <list>
-    <reference key="19"></reference>
+    <reference key="20"></reference>
    </list>
    <string role="key" value="09f740919287a6d919f4d34781e12be0"></string>
    <list>
-    <reference key="63"></reference>
+    <reference key="64"></reference>
    </list>
    <string role="key" value="0b7bfe706393ced3b4a9e87c5c840bb6"></string>
    <list>
-    <reference key="29"></reference>
+    <reference key="30"></reference>
    </list>
    <string role="key" value="1a395f7d1aade7ae3926bca590895a65"></string>
    <list>
-    <reference key="34"></reference>
+    <reference key="35"></reference>
    </list>
    <string role="key" value="1c60df1370b68daa73162fb25f3576aa"></string>
    <list>
-    <reference key="25"></reference>
+    <reference key="26"></reference>
    </list>
    <string role="key" value="229a73ef27774b44ef97d420ccba08e8"></string>
    <list>
-    <reference key="28"></reference>
+    <reference key="29"></reference>
    </list>
    <string role="key" value="31a8414d76cf38601977a188ad6574c4"></string>
    <list>
-    <reference key="32"></reference>
+    <reference key="33"></reference>
    </list>
    <string role="key" value="4693917af7f641295b2ab4df737e5b4a"></string>
    <list>
-    <reference key="27"></reference>
+    <reference key="28"></reference>
    </list>
    <string role="key" value="52c8e072893747e0a486d0fd93e1df94"></string>
    <list>
-    <reference key="21"></reference>
+    <reference key="22"></reference>
    </list>
    <string role="key" value="52f9885270e0b00c0bfa9abd2935dd47"></string>
    <list>
-    <reference key="36"></reference>
+    <reference key="37"></reference>
    </list>
    <string role="key" value="572c0b2ee4c83e0a211db2db7c4f1e03"></string>
    <list>
-    <reference key="23"></reference>
+    <reference key="24"></reference>
    </list>
    <string role="key" value="61d933284d083555c308645ee68f35a2"></string>
    <list>
-    <reference key="30"></reference>
+    <reference key="31"></reference>
    </list>
    <string role="key" value="83469bdd2477d6fb956ed69de528ec56"></string>
    <list>
-    <reference key="52"></reference>
+    <reference key="53"></reference>
    </list>
    <string role="key" value="8d23e365916d65cea843cf76d9d7c6d5"></string>
    <list>
-    <reference key="59"></reference>
+    <reference key="60"></reference>
    </list>
    <string role="key" value="8f1c42db3fb228d27cbd8efe5415068c"></string>
    <list>
-    <reference key="24"></reference>
+    <reference key="25"></reference>
    </list>
    <string role="key" value="9c2b1390d632885ccc40f51f12af14c5"></string>
    <list>
-    <reference key="54"></reference>
+    <reference key="55"></reference>
+   </list>
+   <string role="key" value="a0a7ef8252786236a6604c3988d8ea1a"></string>
+   <list>
+    <reference key="17"></reference>
    </list>
    <string role="key" value="a4166635f520509a01637b5153e12d92"></string>
    <list>
-    <reference key="56"></reference>
+    <reference key="57"></reference>
    </list>
    <string role="key" value="a416a36b5d2a28b634b92872376aca9c"></string>
    <list>
-    <reference key="20"></reference>
+    <reference key="21"></reference>
    </list>
    <string role="key" value="a75eee291d0e8f9e15bb007ca28c8ba5"></string>
    <list>
-    <reference key="33"></reference>
+    <reference key="34"></reference>
    </list>
    <string role="key" value="c10fca6b214d297c61a568aa823afa78"></string>
    <list>
@@ -5428,15 +5497,15 @@ reflective feedback)."></unicode>
    </list>
    <string role="key" value="c1cb46fd31e1bc6a76cd64db537cca27"></string>
    <list>
-    <reference key="26"></reference>
+    <reference key="27"></reference>
    </list>
    <string role="key" value="cc76f4d4a0a4f2c815c4dc8bb8d602eb"></string>
    <list>
-    <reference key="31"></reference>
+    <reference key="32"></reference>
    </list>
    <string role="key" value="d67526fd38d0678bd42d532fdbf65e9c"></string>
    <list>
-    <reference key="35"></reference>
+    <reference key="36"></reference>
    </list>
    <string role="key" value="d9b7b70e805a4e458df8e5c9ce08e3d2"></string>
    <list>
@@ -5444,8 +5513,8 @@ reflective feedback)."></unicode>
    </list>
    <string role="key" value="dee191b05b87eefbc0b7178e2de156fe"></string>
    <list>
-    <reference key="41"></reference>
     <reference key="42"></reference>
+    <reference key="43"></reference>
    </list>
    <string role="key" value="e70f4a216bb6d918d8cc807906023ae3"></string>
    <list>
@@ -5453,15 +5522,15 @@ reflective feedback)."></unicode>
    </list>
    <string role="key" value="f06e64d10c3574820049d9f1c06a56ec"></string>
    <list>
-    <reference key="45"></reference>
+    <reference key="46"></reference>
    </list>
    <string role="key" value="f3b1a4048f1a35cb6b70cb1aa6bf2a02"></string>
    <list>
-    <reference key="55"></reference>
+    <reference key="56"></reference>
    </list>
    <string role="key" value="fd12d6fcc087c760af80ac0ae8ef7b2a"></string>
    <list>
-    <reference key="22"></reference>
+    <reference key="23"></reference>
    </list>
   </dictionary>
   <string role="key" value="root"></string>
