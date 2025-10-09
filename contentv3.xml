@@ -196,7 +196,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="1509"></int>
+                  <int value="1587"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -210,7 +210,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="65_134_2.18"></unicode>
+                <unicode value="65_134_2.20"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="5">
                  <dictionary>
@@ -221,7 +221,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="banner_back_to_the_futuer.jpg"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmplytgx1\\banner_back_to_the_futuer.jpg"></string>
+                  <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmp_rr14o\\banner_back_to_the_futuer.jpg"></string>
                   <string role="key" value="checksum"></string>
                   <string value="e70f4a216bb6d918d8cc807906023ae3"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -250,7 +250,7 @@
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="19"></int>
+           <int value="21"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -516,7 +516,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="1508"></int>
+                  <int value="1586"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -530,7 +530,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="6_127_2.21"></unicode>
+                <unicode value="6_127_2.23"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="10">
                  <dictionary>
@@ -541,7 +541,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="banner2.jpg"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmplytgx1\\banner2.jpg"></string>
+                  <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmp_rr14o\\banner2.jpg"></string>
                   <string role="key" value="checksum"></string>
                   <string value="d9b7b70e805a4e458df8e5c9ce08e3d2"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -570,7 +570,7 @@
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="22"></int>
+           <int value="24"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -731,7 +731,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1517"></int>
+                     <int value="1595"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -745,7 +745,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="23_131_2.18"></unicode>
+                   <unicode value="23_131_2.20"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="14">
                     <dictionary>
@@ -756,7 +756,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="creacion_de_contenidos_con_exelearnig.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmplytgx1\\creacion_de_contenidos_con_exelearnig.png"></string>
+                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmp_rr14o\\creacion_de_contenidos_con_exelearnig.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="c10fca6b214d297c61a568aa823afa78"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -785,7 +785,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="19"></int>
+              <int value="21"></int>
               <string role="key" value="parentNode"></string>
               <reference key="13"></reference>
              </dictionary>
@@ -914,7 +914,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1512"></int>
+                     <int value="1590"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -928,7 +928,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="22_130_2.13"></unicode>
+                   <unicode value="22_130_2.15"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="17">
                     <dictionary>
@@ -939,7 +939,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="cartel.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmplytgx1\\cartel.jpg"></string>
+                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmp_rr14o\\cartel.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="a0a7ef8252786236a6604c3988d8ea1a"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -968,7 +968,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="14"></int>
+              <int value="16"></int>
               <string role="key" value="parentNode"></string>
               <reference key="13"></reference>
              </dictionary>
@@ -1096,7 +1096,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1506"></int>
+                     <int value="1584"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1110,7 +1110,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="26_134_2.314"></unicode>
+                   <unicode value="26_134_2.350"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="20">
                     <dictionary>
@@ -1121,7 +1121,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="AlbertEinstein.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmplytgx1\\AlbertEinstein.jpg"></string>
+                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmp_rr14o\\AlbertEinstein.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="0185fdd9b210ff2073bcd99b5d2e9311"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1148,7 +1148,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1507"></int>
+                     <int value="1585"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1162,7 +1162,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="26_134_2.315"></unicode>
+                   <unicode value="26_134_2.351"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="21">
                     <dictionary>
@@ -1173,7 +1173,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="Almanaque1985A.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmplytgx1\\Almanaque1985A.png"></string>
+                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmp_rr14o\\Almanaque1985A.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="a416a36b5d2a28b634b92872376aca9c"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1200,7 +1200,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1510"></int>
+                     <int value="1588"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1214,7 +1214,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="26_134_2.316"></unicode>
+                   <unicode value="26_134_2.352"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="22">
                     <dictionary>
@@ -1225,7 +1225,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="BenFranklin.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmplytgx1\\BenFranklin.jpg"></string>
+                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmp_rr14o\\BenFranklin.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="52c8e072893747e0a486d0fd93e1df94"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1252,7 +1252,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1511"></int>
+                     <int value="1589"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1266,7 +1266,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="26_134_2.317"></unicode>
+                   <unicode value="26_134_2.353"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="23">
                     <dictionary>
@@ -1277,7 +1277,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="Biff_Tannen4.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmplytgx1\\Biff_Tannen4.jpg"></string>
+                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmp_rr14o\\Biff_Tannen4.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="fd12d6fcc087c760af80ac0ae8ef7b2a"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1304,7 +1304,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1513"></int>
+                     <int value="1591"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1318,7 +1318,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="26_134_2.318"></unicode>
+                   <unicode value="26_134_2.354"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="24">
                     <dictionary>
@@ -1329,7 +1329,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="CarteldeHillValley-1985.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmplytgx1\\CarteldeHillValley-1985.png"></string>
+                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmp_rr14o\\CarteldeHillValley-1985.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="572c0b2ee4c83e0a211db2db7c4f1e03"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1356,7 +1356,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1514"></int>
+                     <int value="1592"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1370,7 +1370,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="26_134_2.319"></unicode>
+                   <unicode value="26_134_2.355"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="25">
                     <dictionary>
@@ -1381,7 +1381,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="Casadelacorte-2015.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmplytgx1\\Casadelacorte-2015.jpg"></string>
+                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmp_rr14o\\Casadelacorte-2015.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="8f1c42db3fb228d27cbd8efe5415068c"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1408,7 +1408,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1515"></int>
+                     <int value="1593"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1422,7 +1422,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="26_134_2.320"></unicode>
+                   <unicode value="26_134_2.356"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="26">
                     <dictionary>
@@ -1433,7 +1433,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="CasaMarty_TransportEnergia.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmplytgx1\\CasaMarty_TransportEnergia.jpg"></string>
+                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmp_rr14o\\CasaMarty_TransportEnergia.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="1c60df1370b68daa73162fb25f3576aa"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1460,7 +1460,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1516"></int>
+                     <int value="1594"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1474,7 +1474,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="26_134_2.321"></unicode>
+                   <unicode value="26_134_2.357"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="27">
                     <dictionary>
@@ -1485,7 +1485,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="Cicuitosdeltiempo.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmplytgx1\\Cicuitosdeltiempo.png"></string>
+                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmp_rr14o\\Cicuitosdeltiempo.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="c1cb46fd31e1bc6a76cd64db537cca27"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1512,7 +1512,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1518"></int>
+                     <int value="1596"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1526,7 +1526,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="26_134_2.322"></unicode>
+                   <unicode value="26_134_2.358"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="28">
                     <dictionary>
@@ -1537,7 +1537,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="delorean.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmplytgx1\\delorean.jpg"></string>
+                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmp_rr14o\\delorean.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="4693917af7f641295b2ab4df737e5b4a"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1564,7 +1564,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1519"></int>
+                     <int value="1597"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1578,7 +1578,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="26_134_2.323"></unicode>
+                   <unicode value="26_134_2.359"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="29">
                     <dictionary>
@@ -1589,7 +1589,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="Einstein-y-Doc.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmplytgx1\\Einstein-y-Doc.jpg"></string>
+                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmp_rr14o\\Einstein-y-Doc.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="229a73ef27774b44ef97d420ccba08e8"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1616,7 +1616,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1524"></int>
+                     <int value="1602"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1630,7 +1630,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="26_134_2.324"></unicode>
+                   <unicode value="26_134_2.360"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="30">
                     <dictionary>
@@ -1641,7 +1641,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="eintenstein3.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmplytgx1\\eintenstein3.jpg"></string>
+                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmp_rr14o\\eintenstein3.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="0b7bfe706393ced3b4a9e87c5c840bb6"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1668,7 +1668,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1525"></int>
+                     <int value="1603"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1682,7 +1682,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="26_134_2.325"></unicode>
+                   <unicode value="26_134_2.361"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="31">
                     <dictionary>
@@ -1693,7 +1693,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="GeorgeMcFly.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmplytgx1\\GeorgeMcFly.jpg"></string>
+                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmp_rr14o\\GeorgeMcFly.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="61d933284d083555c308645ee68f35a2"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1720,7 +1720,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1526"></int>
+                     <int value="1604"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1734,7 +1734,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="26_134_2.326"></unicode>
+                   <unicode value="26_134_2.362"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="32">
                     <dictionary>
@@ -1745,7 +1745,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="goldie_wilson_young.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmplytgx1\\goldie_wilson_young.jpg"></string>
+                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmp_rr14o\\goldie_wilson_young.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="cc76f4d4a0a4f2c815c4dc8bb8d602eb"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1772,7 +1772,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1527"></int>
+                     <int value="1605"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1786,7 +1786,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="26_134_2.327"></unicode>
+                   <unicode value="26_134_2.363"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="33">
                     <dictionary>
@@ -1797,7 +1797,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="Hedy_Lamarr_-_adolescent_.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmplytgx1\\Hedy_Lamarr_-_adolescent_.jpg"></string>
+                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmp_rr14o\\Hedy_Lamarr_-_adolescent_.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="31a8414d76cf38601977a188ad6574c4"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1824,7 +1824,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1531"></int>
+                     <int value="1609"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1838,7 +1838,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="26_134_2.328"></unicode>
+                   <unicode value="26_134_2.364"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="34">
                     <dictionary>
@@ -1849,7 +1849,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="Jennifer_Parker.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmplytgx1\\Jennifer_Parker.jpg"></string>
+                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmp_rr14o\\Jennifer_Parker.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="a75eee291d0e8f9e15bb007ca28c8ba5"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1876,7 +1876,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1532"></int>
+                     <int value="1610"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1890,7 +1890,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="26_134_2.329"></unicode>
+                   <unicode value="26_134_2.365"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="35">
                     <dictionary>
@@ -1901,7 +1901,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="LorraineHouse.JPG"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmplytgx1\\LorraineHouse.JPG"></string>
+                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmp_rr14o\\LorraineHouse.JPG"></string>
                      <string role="key" value="checksum"></string>
                      <string value="1a395f7d1aade7ae3926bca590895a65"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1928,7 +1928,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1533"></int>
+                     <int value="1611"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1942,7 +1942,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="26_134_2.330"></unicode>
+                   <unicode value="26_134_2.366"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="36">
                     <dictionary>
@@ -1953,7 +1953,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="Lorraine_Baines_McFly4.JPG"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmplytgx1\\Lorraine_Baines_McFly4.JPG"></string>
+                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmp_rr14o\\Lorraine_Baines_McFly4.JPG"></string>
                      <string role="key" value="checksum"></string>
                      <string value="d67526fd38d0678bd42d532fdbf65e9c"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1980,7 +1980,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1536"></int>
+                     <int value="1614"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1994,7 +1994,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="26_134_2.331"></unicode>
+                   <unicode value="26_134_2.367"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="37">
                     <dictionary>
@@ -2005,7 +2005,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="twinpines_lonepine_mall.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmplytgx1\\twinpines_lonepine_mall.jpg"></string>
+                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmp_rr14o\\twinpines_lonepine_mall.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="52f9885270e0b00c0bfa9abd2935dd47"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2034,7 +2034,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="332"></int>
+              <int value="368"></int>
               <string role="key" value="parentNode"></string>
               <reference key="13"></reference>
              </dictionary>
@@ -2311,7 +2311,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1528"></int>
+                     <int value="1606"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2325,7 +2325,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="39_147_2.38"></unicode>
+                   <unicode value="39_147_2.42"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="42">
                     <dictionary>
@@ -2336,7 +2336,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="Iframe_Back_To_The_Future__Back_To_The_Future_(From__Back_To_The_Future_)_[cgBvhmxun5M].mp3"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmplytgx1\\Iframe_Back_To_The_Future__Back_To_The_Future_(From__Back_To_The_Future_)_[cgBvhmxun5M].mp3"></string>
+                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmp_rr14o\\Iframe_Back_To_The_Future__Back_To_The_Future_(From__Back_To_The_Future_)_[cgBvhmxun5M].mp3"></string>
                      <string role="key" value="checksum"></string>
                      <string value="dee191b05b87eefbc0b7178e2de156fe"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2363,7 +2363,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1529"></int>
+                     <int value="1607"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2377,7 +2377,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="39_147_2.39"></unicode>
+                   <unicode value="39_147_2.43"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="43">
                     <dictionary>
@@ -2388,7 +2388,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="Iframe_Back_To_The_Future__Back_To_The_Future_(From__Back_To_The_Future_)_[cgBvhmxun5M].mp3"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmplytgx1\\Iframe_Back_To_The_Future__Back_To_The_Future_(From__Back_To_The_Future_)_[cgBvhmxun5M].mp3"></string>
+                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmp_rr14o\\Iframe_Back_To_The_Future__Back_To_The_Future_(From__Back_To_The_Future_)_[cgBvhmxun5M].mp3"></string>
                      <string role="key" value="checksum"></string>
                      <string value="dee191b05b87eefbc0b7178e2de156fe"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2417,7 +2417,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="40"></int>
+              <int value="44"></int>
               <string role="key" value="parentNode"></string>
               <reference key="13"></reference>
              </dictionary>
@@ -2554,7 +2554,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1535"></int>
+                     <int value="1613"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2568,7 +2568,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="40_148_2.19"></unicode>
+                   <unicode value="40_148_2.21"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="46">
                     <dictionary>
@@ -2579,7 +2579,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="Regreso_Al_Futuro_J_fox_Berry_Castellano_HD.mp4"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmplytgx1\\Regreso_Al_Futuro_J_fox_Berry_Castellano_HD.mp4"></string>
+                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmp_rr14o\\Regreso_Al_Futuro_J_fox_Berry_Castellano_HD.mp4"></string>
                      <string role="key" value="checksum"></string>
                      <string value="f06e64d10c3574820049d9f1c06a56ec"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2608,7 +2608,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="20"></int>
+              <int value="22"></int>
               <string role="key" value="parentNode"></string>
               <reference key="13"></reference>
              </dictionary>
@@ -2961,7 +2961,7 @@ reflective feedback)."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1505"></int>
+                     <int value="1583"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2975,7 +2975,7 @@ reflective feedback)."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="1_128_2.110"></unicode>
+                   <unicode value="1_128_2.124"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="53">
                     <dictionary>
@@ -2986,7 +2986,7 @@ reflective feedback)."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="ActivitatTecnica.JPG"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmplytgx1\\ActivitatTecnica.JPG"></string>
+                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmp_rr14o\\ActivitatTecnica.JPG"></string>
                      <string role="key" value="checksum"></string>
                      <string value="83469bdd2477d6fb956ed69de528ec56"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3013,7 +3013,7 @@ reflective feedback)."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1520"></int>
+                     <int value="1598"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -3027,7 +3027,7 @@ reflective feedback)."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="1_128_2.111"></unicode>
+                   <unicode value="1_128_2.125"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="54">
                     <dictionary>
@@ -3038,7 +3038,7 @@ reflective feedback)."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="einstein_delorean.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmplytgx1\\einstein_delorean.jpg"></string>
+                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmp_rr14o\\einstein_delorean.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="006225c4e585f71e756aeb5b7c823a88"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3065,7 +3065,7 @@ reflective feedback)."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1521"></int>
+                     <int value="1599"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -3079,7 +3079,7 @@ reflective feedback)."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="1_128_2.112"></unicode>
+                   <unicode value="1_128_2.126"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="55">
                     <dictionary>
@@ -3090,7 +3090,7 @@ reflective feedback)."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="einstein_nose.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmplytgx1\\einstein_nose.jpg"></string>
+                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmp_rr14o\\einstein_nose.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="a4166635f520509a01637b5153e12d92"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3117,7 +3117,7 @@ reflective feedback)."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1522"></int>
+                     <int value="1600"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -3131,7 +3131,7 @@ reflective feedback)."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="1_128_2.113"></unicode>
+                   <unicode value="1_128_2.127"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="56">
                     <dictionary>
@@ -3142,7 +3142,7 @@ reflective feedback)."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="einstein_saludo.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmplytgx1\\einstein_saludo.jpg"></string>
+                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmp_rr14o\\einstein_saludo.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="9c2b1390d632885ccc40f51f12af14c5"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3169,7 +3169,7 @@ reflective feedback)."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1523"></int>
+                     <int value="1601"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -3183,7 +3183,7 @@ reflective feedback)."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="1_128_2.114"></unicode>
+                   <unicode value="1_128_2.128"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="57">
                     <dictionary>
@@ -3194,7 +3194,7 @@ reflective feedback)."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="einstein_silla.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmplytgx1\\einstein_silla.jpg"></string>
+                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmp_rr14o\\einstein_silla.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="f3b1a4048f1a35cb6b70cb1aa6bf2a02"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3221,7 +3221,7 @@ reflective feedback)."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1539"></int>
+                     <int value="1617"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -3235,7 +3235,7 @@ reflective feedback)."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="1_128_2.115"></unicode>
+                   <unicode value="1_128_2.129"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="58">
                     <dictionary>
@@ -3246,7 +3246,7 @@ reflective feedback)."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="Visualthinking_1.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmplytgx1\\Visualthinking_1.jpg"></string>
+                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmp_rr14o\\Visualthinking_1.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="6567df0ca7053cb5a927480becba60a8"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3273,7 +3273,7 @@ reflective feedback)."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1540"></int>
+                     <int value="1618"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -3287,7 +3287,7 @@ reflective feedback)."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="1_128_2.116"></unicode>
+                   <unicode value="1_128_2.130"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="59">
                     <dictionary>
@@ -3298,7 +3298,7 @@ reflective feedback)."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="visual_thinking_en_educacion.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmplytgx1\\visual_thinking_en_educacion.jpg"></string>
+                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmp_rr14o\\visual_thinking_en_educacion.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="09f740919287a6d919f4d34781e12be0"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3327,7 +3327,7 @@ reflective feedback)."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="117"></int>
+              <int value="131"></int>
               <string role="key" value="parentNode"></string>
               <reference key="52"></reference>
              </dictionary>
@@ -3463,7 +3463,7 @@ reflective feedback)."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1537"></int>
+                     <int value="1615"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -3477,7 +3477,7 @@ reflective feedback)."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="17_142_2.19"></unicode>
+                   <unicode value="17_142_2.21"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="62">
                     <dictionary>
@@ -3488,7 +3488,7 @@ reflective feedback)."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="U1_-_La_tecnologia_i_el_proces_tecnologic-1.pdf"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmplytgx1\\U1_-_La_tecnologia_i_el_proces_tecnologic-1.pdf"></string>
+                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmp_rr14o\\U1_-_La_tecnologia_i_el_proces_tecnologic-1.pdf"></string>
                      <string role="key" value="checksum"></string>
                      <string value="8d23e365916d65cea843cf76d9d7c6d5"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3517,7 +3517,7 @@ reflective feedback)."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="20"></int>
+              <int value="22"></int>
               <string role="key" value="parentNode"></string>
               <reference key="52"></reference>
              </dictionary>
@@ -4436,7 +4436,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1538"></int>
+                        <int value="1616"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -4450,7 +4450,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="141_141_2.1"></unicode>
+                      <unicode value="141_141_2.3"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="79">
                        <dictionary>
@@ -4461,7 +4461,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="U3_V2_-_Laula_de_tecnologia_eines_i_operacions-1.pdf"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmplytgx1\\U3_V2_-_Laula_de_tecnologia_eines_i_operacions-1.pdf"></string>
+                        <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmp_rr14o\\U3_V2_-_Laula_de_tecnologia_eines_i_operacions-1.pdf"></string>
                         <string role="key" value="checksum"></string>
                         <string value="01b94bdc7445ce7c992050e83f47f543"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4490,7 +4490,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="2"></int>
+                 <int value="4"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="78"></reference>
                 </dictionary>
@@ -4746,7 +4746,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1534"></int>
+                        <int value="1612"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -4760,7 +4760,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="143_143_2.2"></unicode>
+                      <unicode value="143_143_2.4"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="84">
                        <dictionary>
@@ -4771,7 +4771,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="normas_taller_secundaria_v-1-1_page-0001.jpg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmplytgx1\\normas_taller_secundaria_v-1-1_page-0001.jpg"></string>
+                        <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmp_rr14o\\normas_taller_secundaria_v-1-1_page-0001.jpg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="15e86831f8f71a2047b67cf2384bb5bf"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4800,7 +4800,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="3"></int>
+                 <int value="5"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="78"></reference>
                 </dictionary>
@@ -5066,7 +5066,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1530"></int>
+                        <int value="1608"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -5080,7 +5080,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="145_145_2.1"></unicode>
+                      <unicode value="145_145_2.3"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="89">
                        <dictionary>
@@ -5091,7 +5091,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="istockphoto_herramientas_tools.jpg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmplytgx1\\istockphoto_herramientas_tools.jpg"></string>
+                        <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmp_rr14o\\istockphoto_herramientas_tools.jpg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="0461110f210e767f8c43360a04337e31"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5120,7 +5120,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="2"></int>
+                 <int value="4"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="78"></reference>
                 </dictionary>
@@ -5739,7 +5739,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1502"></int>
+                     <int value="1580"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -5753,7 +5753,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="146_146_2.3"></unicode>
+                   <unicode value="146_146_2.9"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="100">
                     <dictionary>
@@ -5764,7 +5764,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="001-bist-uncertainty_laserjet_a3_catalan.pdf"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmplytgx1\\001-bist-uncertainty_laserjet_a3_catalan.pdf"></string>
+                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmp_rr14o\\001-bist-uncertainty_laserjet_a3_catalan.pdf"></string>
                      <string role="key" value="checksum"></string>
                      <string value="2d068d37442cbfab5d1847252a4831eb"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5791,7 +5791,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1503"></int>
+                     <int value="1581"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -5805,7 +5805,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="146_146_2.4"></unicode>
+                   <unicode value="146_146_2.10"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="101">
                     <dictionary>
@@ -5816,7 +5816,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="002-wave-particle_laserjet_a3_catalan.pdf"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmplytgx1\\002-wave-particle_laserjet_a3_catalan.pdf"></string>
+                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmp_rr14o\\002-wave-particle_laserjet_a3_catalan.pdf"></string>
                      <string role="key" value="checksum"></string>
                      <string value="8d2514b615bf0bae28a00caec1d16ae5"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5843,7 +5843,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1504"></int>
+                     <int value="1582"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -5857,7 +5857,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="146_146_2.5"></unicode>
+                   <unicode value="146_146_2.11"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="102">
                     <dictionary>
@@ -5868,7 +5868,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="004-superposition-laserjet_a3_catala.pdf"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmplytgx1\\004-superposition-laserjet_a3_catala.pdf"></string>
+                     <string value="c:\\users\\lidia\\appdata\\local\\temp\\tmp_rr14o\\004-superposition-laserjet_a3_catala.pdf"></string>
                      <string role="key" value="checksum"></string>
                      <string value="57f0c28e9d9807d358be83caa9070d8b"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5897,7 +5897,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="6"></int>
+              <int value="12"></int>
               <string role="key" value="parentNode"></string>
               <reference key="97"></reference>
              </dictionary>
@@ -6160,7 +6160,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="67"></reference>
+  <reference key="78"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
