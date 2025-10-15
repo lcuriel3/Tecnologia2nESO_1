@@ -71,7 +71,7 @@
   <string role="key" value="_intendedEndUserRoleType"></string>
   <unicode value="learner"></unicode>
   <string role="key" value="_isChanged"></string>
-  <bool value="0"></bool>
+  <bool value="1"></bool>
   <string role="key" value="_isTemplate"></string>
   <bool value="0"></bool>
   <string role="key" value="_lang"></string>
@@ -4337,7 +4337,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
          <instance class="exe.engine.node.Node" reference="78">
           <dictionary>
            <string role="key" value="_title"></string>
-           <unicode value="🪛⛑️👷‍♂️ El taller de tecnologia: Eines, seguretat i materials 🧤🥽"></unicode>
+           <unicode value="🪛⛑️👷‍♂️Taller: Eines, seguretat, materials 🧤🥽"></unicode>
            <string role="key" value="idevices"></string>
            <list>
             <instance class="exe.engine.jsidevice.JsIdevice" reference="76">
@@ -5164,7 +5164,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
            <string role="key" value="exportType"></string>
            <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
-           <string value="exe-node:TECNOLOGIA%202n%20ESO%20%C2%B7%20INS%20La%20Ferreria:1.%20%F0%9F%AA%9C%F0%9F%AA%9A%20El%20proc%C3%A9s%20tecnol%C3%B2gic%20:%F0%9F%AA%9B%E2%9B%91%EF%B8%8F%F0%9F%91%B7%E2%80%8D%E2%99%82%EF%B8%8F%20El%20taller%20de%20tecnologia%3A%20Eines%2C%20seguretat%20i%20materials%20%F0%9F%A7%A4%F0%9F%A5%BD"></string>
+           <string value="exe-node:TECNOLOGIA%202n%20ESO%20%C2%B7%20INS%20La%20Ferreria:1.%20%F0%9F%AA%9C%F0%9F%AA%9A%20El%20proc%C3%A9s%20tecnol%C3%B2gic%20:%F0%9F%AA%9B%E2%9B%91%EF%B8%8F%F0%9F%91%B7%E2%80%8D%E2%99%82%EF%B8%8FTaller%3A%20Eines%2C%20seguretat%2C%20materials%20%F0%9F%A7%A4%F0%9F%A5%BD"></string>
            <string role="key" value="parent"></string>
            <reference key="52"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
